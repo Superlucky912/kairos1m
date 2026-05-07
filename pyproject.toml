@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kairos"
+version = "0.1.0"
+description = "Kairos AI Trading Bot System"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ccxt",
+    "pandas",
+    "pandas-ta",
+    "numpy",
+    "psycopg2-binary",
+    "python-dotenv",
+    "lightgbm",
+    "scikit-learn",
+    "optuna",
+    "pyzmq",
+    "python-binance",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pyright==1.1.408",
+]
+web = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["common*", "collector*", "trainer*", "trader*", "web*"]

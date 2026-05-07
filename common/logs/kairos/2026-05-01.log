@@ -1,0 +1,138 @@
+[2026-05-01 00:51:51 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_tp)
+[2026-05-01 00:51:51 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_sl)
+[2026-05-01 00:51:51 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_timeout)
+[2026-05-01 00:51:51 | WARNING | Kairos] 로드할 모델 파일이 없습니다: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_tp.pkl
+[2026-05-01 00:51:51 | WARNING | Kairos] 로드할 모델 파일이 없습니다: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_sl.pkl
+[2026-05-01 00:51:51 | WARNING | Kairos] 로드할 모델 파일이 없습니다: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_timeout.pkl
+[2026-05-01 00:52:12 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 00:52:12 | INFO | Kairos] DB 연결 성공
+[2026-05-01 00:52:27 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 00:52:27 | INFO | Kairos] DB 연결 성공
+[2026-05-01 00:52:28 | INFO | Kairos] DB 연결 종료
+[2026-05-01 01:06:39 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_tp)
+[2026-05-01 01:06:39 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v3_h120_tp | Samples=581328
+[2026-05-01 01:06:39 | INFO | Kairos] 검증 세트 포함: Val Samples=64592
+[2026-05-01 01:07:00 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_tp.pkl
+[2026-05-01 01:07:01 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_sl)
+[2026-05-01 01:07:01 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v3_h120_sl | Samples=581328
+[2026-05-01 01:07:01 | INFO | Kairos] 검증 세트 포함: Val Samples=64592
+[2026-05-01 01:07:27 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_sl.pkl
+[2026-05-01 01:07:27 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_timeout)
+[2026-05-01 01:07:27 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v3_h120_timeout | Samples=581328
+[2026-05-01 01:07:27 | INFO | Kairos] 검증 세트 포함: Val Samples=64592
+[2026-05-01 01:08:13 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_timeout.pkl
+[2026-05-01 01:20:32 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_tp)
+[2026-05-01 01:20:32 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_sl)
+[2026-05-01 01:20:32 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_timeout)
+[2026-05-01 01:20:32 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_tp.pkl
+[2026-05-01 01:20:32 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_sl.pkl
+[2026-05-01 01:20:32 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_timeout.pkl
+[2026-05-01 01:20:32 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 01:20:32 | INFO | Kairos] DB 연결 성공
+[2026-05-01 02:16:25 | INFO | Kairos] 바이낸스 내부 웹소켓 큐 크기 패치 적용 완료 (10,000)
+[2026-05-01 02:16:44 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_tp)
+[2026-05-01 02:16:44 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_sl)
+[2026-05-01 02:16:44 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_timeout)
+[2026-05-01 02:16:44 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_tp.pkl
+[2026-05-01 02:16:44 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_sl.pkl
+[2026-05-01 02:16:44 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_timeout.pkl
+[2026-05-01 02:16:44 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 02:16:44 | INFO | Kairos] DB 연결 성공
+[2026-05-01 02:28:59 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_tp)
+[2026-05-01 02:28:59 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_sl)
+[2026-05-01 02:28:59 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_timeout)
+[2026-05-01 02:29:00 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_tp.pkl
+[2026-05-01 02:29:00 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_sl.pkl
+[2026-05-01 02:29:00 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_timeout.pkl
+[2026-05-01 02:29:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 02:29:00 | INFO | Kairos] DB 연결 성공
+[2026-05-01 02:49:11 | INFO | Kairos] 바이낸스 내부 웹소켓 큐 크기 패치 적용 완료 (10,000)
+[2026-05-01 02:49:19 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_tp)
+[2026-05-01 02:49:19 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_sl)
+[2026-05-01 02:49:19 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h120_timeout)
+[2026-05-01 02:49:19 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_tp.pkl
+[2026-05-01 02:49:19 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_sl.pkl
+[2026-05-01 02:49:19 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h120_timeout.pkl
+[2026-05-01 02:49:19 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 02:49:19 | INFO | Kairos] DB 연결 성공
+[2026-05-01 03:54:30 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 03:54:30 | INFO | Kairos] DB 연결 성공
+[2026-05-01 03:54:30 | INFO | Kairos] DB 연결 종료
+[2026-05-01 03:54:42 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 03:54:42 | INFO | Kairos] DB 연결 성공
+[2026-05-01 03:54:42 | INFO | Kairos] DB 연결 종료
+[2026-05-01 03:55:17 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 03:55:17 | INFO | Kairos] DB 연결 성공
+[2026-05-01 03:55:17 | INFO | Kairos] DB 연결 종료
+[2026-05-01 03:55:20 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 03:55:20 | INFO | Kairos] DB 연결 성공
+[2026-05-01 03:55:20 | INFO | Kairos] DB 연결 종료
+[2026-05-01 03:55:23 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 03:55:23 | INFO | Kairos] DB 연결 성공
+[2026-05-01 03:55:23 | INFO | Kairos] DB 연결 종료
+[2026-05-01 04:01:49 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 04:01:49 | INFO | Kairos] DB 연결 성공
+[2026-05-01 04:10:02 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v4_pump20_h120_tp)
+[2026-05-01 04:10:02 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v4_pump20_h120_tp | Samples=119726
+[2026-05-01 04:10:02 | INFO | Kairos] 검증 세트 포함: Val Samples=13303
+[2026-05-01 04:10:07 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v4_pump20_h120_tp.pkl
+[2026-05-01 04:10:07 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v4_pump20_h120_sl)
+[2026-05-01 04:10:07 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v4_pump20_h120_sl | Samples=119726
+[2026-05-01 04:10:07 | INFO | Kairos] 검증 세트 포함: Val Samples=13303
+[2026-05-01 04:10:11 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v4_pump20_h120_sl.pkl
+[2026-05-01 04:10:11 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v4_pump20_h120_timeout)
+[2026-05-01 04:10:11 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v4_pump20_h120_timeout | Samples=119726
+[2026-05-01 04:10:11 | INFO | Kairos] 검증 세트 포함: Val Samples=13303
+[2026-05-01 04:10:16 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v4_pump20_h120_timeout.pkl
+[2026-05-01 04:10:26 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v4_pump20_h120_tp)
+[2026-05-01 04:10:26 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v4_pump20_h120_sl)
+[2026-05-01 04:10:26 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v4_pump20_h120_timeout)
+[2026-05-01 04:10:26 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v4_pump20_h120_tp.pkl
+[2026-05-01 04:10:26 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v4_pump20_h120_sl.pkl
+[2026-05-01 04:10:26 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v4_pump20_h120_timeout.pkl
+[2026-05-01 04:10:26 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 04:10:26 | INFO | Kairos] DB 연결 성공
+[2026-05-01 04:27:37 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 04:27:37 | INFO | Kairos] DB 연결 성공
+[2026-05-01 04:33:50 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h60_tp)
+[2026-05-01 04:33:50 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v3_h60_tp | Samples=583002
+[2026-05-01 04:33:50 | INFO | Kairos] 검증 세트 포함: Val Samples=64778
+[2026-05-01 04:34:06 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h60_tp.pkl
+[2026-05-01 04:34:07 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h60_sl)
+[2026-05-01 04:34:07 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v3_h60_sl | Samples=583002
+[2026-05-01 04:34:07 | INFO | Kairos] 검증 세트 포함: Val Samples=64778
+[2026-05-01 04:34:24 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h60_sl.pkl
+[2026-05-01 04:34:25 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h60_timeout)
+[2026-05-01 04:34:25 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v3_h60_timeout | Samples=583002
+[2026-05-01 04:34:25 | INFO | Kairos] 검증 세트 포함: Val Samples=64778
+[2026-05-01 04:34:57 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h60_timeout.pkl
+[2026-05-01 04:35:05 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h60_tp)
+[2026-05-01 04:35:05 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h60_sl)
+[2026-05-01 04:35:05 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v3_h60_timeout)
+[2026-05-01 04:35:05 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h60_tp.pkl
+[2026-05-01 04:35:05 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h60_sl.pkl
+[2026-05-01 04:35:05 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v3_h60_timeout.pkl
+[2026-05-01 04:35:05 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 04:35:05 | INFO | Kairos] DB 연결 성공
+[2026-05-01 21:55:50 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 21:55:50 | INFO | Kairos] DB 연결 성공
+[2026-05-01 22:04:39 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v5_tp35_sl20_h60_tp)
+[2026-05-01 22:04:39 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v5_tp35_sl20_h60_tp | Samples=583002
+[2026-05-01 22:04:39 | INFO | Kairos] 검증 세트 포함: Val Samples=64778
+[2026-05-01 22:05:05 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v5_tp35_sl20_h60_tp.pkl
+[2026-05-01 22:05:06 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v5_tp35_sl20_h60_sl)
+[2026-05-01 22:05:06 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v5_tp35_sl20_h60_sl | Samples=583002
+[2026-05-01 22:05:06 | INFO | Kairos] 검증 세트 포함: Val Samples=64778
+[2026-05-01 22:05:37 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v5_tp35_sl20_h60_sl.pkl
+[2026-05-01 22:05:37 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v5_tp35_sl20_h60_timeout)
+[2026-05-01 22:05:37 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v5_tp35_sl20_h60_timeout | Samples=583002
+[2026-05-01 22:05:37 | INFO | Kairos] 검증 세트 포함: Val Samples=64778
+[2026-05-01 22:06:27 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v5_tp35_sl20_h60_timeout.pkl
+[2026-05-01 22:06:36 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v5_tp35_sl20_h60_tp)
+[2026-05-01 22:06:36 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v5_tp35_sl20_h60_sl)
+[2026-05-01 22:06:36 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v5_tp35_sl20_h60_timeout)
+[2026-05-01 22:06:37 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v5_tp35_sl20_h60_tp.pkl
+[2026-05-01 22:06:37 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v5_tp35_sl20_h60_sl.pkl
+[2026-05-01 22:06:37 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v5_tp35_sl20_h60_timeout.pkl
+[2026-05-01 22:06:37 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-01 22:06:37 | INFO | Kairos] DB 연결 성공

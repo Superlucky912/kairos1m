@@ -1,0 +1,296 @@
+[2026-05-07 03:16:44 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-07 03:16:44 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-07 03:16:44 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-07 03:16:44 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-07 03:16:44 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-07 03:16:44 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-07 03:16:44 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:16:44 | INFO | Kairos] DB 연결 성공
+[2026-05-07 05:55:28 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-07 05:55:28 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-07 05:55:28 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-07 05:55:28 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-07 05:55:28 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-07 05:55:28 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-07 05:55:28 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:55:28 | INFO | Kairos] DB 연결 성공
+[2026-05-07 05:57:33 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:57:33 | INFO | Kairos] DB 연결 성공
+[2026-05-07 05:57:33 | INFO | Kairos] DB 연결 종료
+[2026-05-07 05:57:46 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:57:46 | INFO | Kairos] DB 연결 성공
+[2026-05-07 05:57:46 | INFO | Kairos] DB 연결 종료
+[2026-05-07 07:10:59 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:11:00 | INFO | Kairos] DB 연결 성공
+[2026-05-07 07:26:01 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_tp)
+[2026-05-07 07:26:01 | INFO | Kairos] 모델 학습 시작: v1_tp35_sl20_h60_tp | Samples=412952
+[2026-05-07 07:26:01 | INFO | Kairos] 검증 세트 포함: Val Samples=45884
+[2026-05-07 07:26:22 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_tp.pkl
+[2026-05-07 07:26:22 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_sl)
+[2026-05-07 07:26:22 | INFO | Kairos] 모델 학습 시작: v1_tp35_sl20_h60_sl | Samples=412952
+[2026-05-07 07:26:22 | INFO | Kairos] 검증 세트 포함: Val Samples=45884
+[2026-05-07 07:26:41 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_sl.pkl
+[2026-05-07 07:26:42 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_timeout)
+[2026-05-07 07:26:42 | INFO | Kairos] 모델 학습 시작: v1_tp35_sl20_h60_timeout | Samples=412952
+[2026-05-07 07:26:42 | INFO | Kairos] 검증 세트 포함: Val Samples=45884
+[2026-05-07 07:27:02 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_timeout.pkl
+[2026-05-07 09:54:31 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_tp)
+[2026-05-07 09:54:31 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_sl)
+[2026-05-07 09:54:31 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_timeout)
+[2026-05-07 09:54:31 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_tp.pkl
+[2026-05-07 09:54:31 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_sl.pkl
+[2026-05-07 09:54:31 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_timeout.pkl
+[2026-05-07 09:54:31 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:54:31 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:09 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:09 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:09 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:08:15 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:15 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:15 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:08:23 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:23 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:23 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:08:25 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:25 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:25 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:08:34 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:34 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:34 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:08:39 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:39 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:39 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:08:46 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:46 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:46 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:08:47 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:08:47 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:08:47 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:09:04 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:09:04 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:09:05 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:14:42 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_tp)
+[2026-05-07 10:14:42 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_sl)
+[2026-05-07 10:14:42 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_timeout)
+[2026-05-07 10:14:42 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_tp.pkl
+[2026-05-07 10:14:42 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_sl.pkl
+[2026-05-07 10:14:42 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_timeout.pkl
+[2026-05-07 10:14:42 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:14:42 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:36:42 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_tp)
+[2026-05-07 10:36:42 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_sl)
+[2026-05-07 10:36:42 | INFO | Kairos] LGBMModel 초기화 (v1_tp35_sl20_h60_timeout)
+[2026-05-07 10:36:42 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_tp.pkl
+[2026-05-07 10:36:42 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_sl.pkl
+[2026-05-07 10:36:42 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp35_sl20_h60_timeout.pkl
+[2026-05-07 10:36:42 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:36:42 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:45:55 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:45:55 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:45:55 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:46:02 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:46:02 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:46:02 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:46:11 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:46:11 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:46:11 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:46:16 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:46:16 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:46:16 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:46:27 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:46:27 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:46:27 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:46:34 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:46:34 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:46:34 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:51:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:51:10 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:51:10 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:51:16 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:51:16 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:51:16 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:52:51 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:52:51 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:52:51 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:52:54 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:52:54 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:52:54 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:52:57 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:52:57 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:52:57 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:54:31 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:54:31 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:54:31 | INFO | Kairos] DB 연결 종료
+[2026-05-07 10:54:40 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:54:40 | INFO | Kairos] DB 연결 성공
+[2026-05-07 10:54:44 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:13:11 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:13:11 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:13:11 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:13:14 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:13:14 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:13:14 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:13:20 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:13:20 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:13:20 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:13:26 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:13:26 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:13:26 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:13:28 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:13:28 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:13:28 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:14:07 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:14:07 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:14:07 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:16:49 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:16:49 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:16:49 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:16:50 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:16:50 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:16:50 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:16:52 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:16:52 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:16:52 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:16:54 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:16:54 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:16:54 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:16:56 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:16:56 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:16:56 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:16:58 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:16:58 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:16:58 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:17:08 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:17:08 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:17:08 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:17:11 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:17:11 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:17:11 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:17:14 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:17:14 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:17:14 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:17:21 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:17:21 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:17:21 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:17:23 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:17:23 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:17:23 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:17:23 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:17:24 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:17:24 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:17:30 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:17:30 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:17:31 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:29:21 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:29:21 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:29:21 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:32:25 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:32:25 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:32:25 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:33:31 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:33:31 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:33:31 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:34:17 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-07 11:34:17 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-07 11:34:17 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-07 11:34:17 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-07 11:34:17 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-07 11:34:17 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-07 11:34:17 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:34:17 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:45:44 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:45:44 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:45:44 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:45:50 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:45:50 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:45:53 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:47:54 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:47:54 | INFO | Kairos] DB 연결 성공
+[2026-05-07 11:47:54 | INFO | Kairos] DB 연결 종료
+[2026-05-07 11:51:29 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:51:29 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:02:32 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-07 12:02:32 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_tp | Samples=413087
+[2026-05-07 12:02:32 | INFO | Kairos] 검증 세트 포함: Val Samples=45899
+[2026-05-07 12:02:43 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-07 12:02:44 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-07 12:02:44 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_sl | Samples=413087
+[2026-05-07 12:02:44 | INFO | Kairos] 검증 세트 포함: Val Samples=45899
+[2026-05-07 12:02:55 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-07 12:02:55 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-07 12:02:55 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_timeout | Samples=413087
+[2026-05-07 12:02:55 | INFO | Kairos] 검증 세트 포함: Val Samples=45899
+[2026-05-07 12:03:10 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-07 12:05:32 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:05:32 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:09:15 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:09:15 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:09:15 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:09:47 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:09:47 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:09:48 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:09:53 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:09:53 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:09:54 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:09:57 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:09:57 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:09:58 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:09:58 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:09:58 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:09:58 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:10:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:10:00 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:10:00 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:10:02 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:10:02 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:10:02 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:10:04 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:10:04 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:10:04 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:10:10 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:10:10 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:10:45 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:10:45 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:10:45 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:16:30 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-07 12:16:30 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_tp | Samples=413167
+[2026-05-07 12:16:30 | INFO | Kairos] 검증 세트 포함: Val Samples=45908
+[2026-05-07 12:16:41 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-07 12:16:41 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-07 12:16:41 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_sl | Samples=413167
+[2026-05-07 12:16:41 | INFO | Kairos] 검증 세트 포함: Val Samples=45908
+[2026-05-07 12:16:52 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-07 12:16:52 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-07 12:16:52 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_timeout | Samples=413167
+[2026-05-07 12:16:52 | INFO | Kairos] 검증 세트 포함: Val Samples=45908
+[2026-05-07 12:17:05 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-07 12:19:19 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-07 12:19:19 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-07 12:19:19 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-07 12:19:19 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-07 12:19:19 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-07 12:19:19 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-07 12:19:19 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:19:19 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:40:27 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:40:27 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:40:27 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:40:33 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:40:33 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:40:33 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:41:13 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:41:13 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:41:13 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:41:24 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:41:24 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:41:24 | INFO | Kairos] DB 연결 종료
+[2026-05-07 12:41:27 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:41:27 | INFO | Kairos] DB 연결 성공
+[2026-05-07 12:41:27 | INFO | Kairos] DB 연결 종료
+[2026-05-07 15:34:15 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:34:15 | INFO | Kairos] DB 연결 성공
+[2026-05-07 15:34:16 | INFO | Kairos] DB 연결 종료
+[2026-05-07 15:39:35 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:39:35 | INFO | Kairos] DB 연결 성공
+[2026-05-07 15:39:38 | INFO | Kairos] DB 연결 종료

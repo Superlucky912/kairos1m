@@ -1,0 +1,32 @@
+{
+  "typeCheckingMode": "standard",
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.13",
+  "include": [
+    "common",
+    "collector",
+    "trader",
+    "trainer",
+    "main.py",
+    "check_db_trades.py",
+    "debug_labeling.py",
+    "trace_orders.py"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    ".git",
+    ".vscode",
+    "venv",
+    "kairos.egg-info",
+    "common/docs",
+    "common/logs",
+    "common/models"
+  ],
+  "reportMissingModuleSource": "none",
+  "reportArgumentType": "error",
+  "reportReturnType": "error",
+  "reportOptionalMemberAccess": "error",
+  "reportOptionalCall": "error",
+  "reportAttributeAccessIssue": "error"
+}

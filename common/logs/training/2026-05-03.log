@@ -1,0 +1,45 @@
+[2026-05-03 03:54:18 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-03 03:54:22 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=20000, TP=3.50%, SL=2.00%, horizon=60분
+[2026-05-03 04:49:49 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-03 04:49:49 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=20000, TP=3.50%, SL=2.00%, horizon=60분
+[2026-05-03 05:04:33 | INFO | Kairos.Scalping1M] top15/강한 펌핑 타겟 필터 적용(regime 제외): 11037906 -> 732404 rows (top15 또는 strong_change_24h>=40%)
+[2026-05-03 05:07:04 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=732404, cols=390, TP=102808 (14.04%), SL=217201 (29.66%), Timeout=412395 (56.31%)
+[2026-05-03 05:07:24 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=636719, Val=70747, Blind=24938
+[2026-05-03 05:07:29 | INFO | Kairos.Train1M] 1분봉 TP 학습 입력 준비 완료 | Train=636719, Val=70747, Feature=353, Positive=80190
+[2026-05-03 05:07:29 | INFO | Kairos.Train1M] 1분봉 TP positive class weight 적용: positive=80190, negative=556529, scale_pos_weight=3.47
+[2026-05-03 05:07:51 | INFO | Kairos.Train1M] [TP Best Iteration: 11] Train AUC=0.8226 | Valid AUC=0.6439
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] === 1분봉 단타 TP Validation 결과 ===
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.6444 | Accuracy=0.3867 | Precision=0.2573 | Recall=0.9013 | F1=0.4003
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=56287, 실제 TP=14482, Hit Rate=25.73%
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.2821
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.2833
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.2862
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.2891
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_tp.md
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 1분봉 SL 학습 입력 준비 완료 | Train=636719, Val=70747, Feature=353, Positive=172620
+[2026-05-03 05:07:52 | INFO | Kairos.Train1M] 1분봉 SL positive class weight 적용: positive=172620, negative=464099, scale_pos_weight=1.34
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] [SL Best Iteration: 52] Train AUC=0.8380 | Valid AUC=0.6344
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] === 1분봉 단타 SL Validation 결과 ===
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.6342 | Accuracy=0.4874 | Precision=0.4840 | Recall=0.9952 | F1=0.6512
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=69964, 실제 SL=33860, Hit Rate=48.40%
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.6108
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.6162
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.6185
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.6236
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_sl.md
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 1분봉 TIMEOUT 학습 입력 준비 완료 | Train=636719, Val=70747, Feature=353, Positive=383909
+[2026-05-03 05:08:18 | INFO | Kairos.Train1M] 1분봉 TIMEOUT positive class weight 적용: positive=383909, negative=252810, scale_pos_weight=1.00
+[2026-05-03 05:09:03 | INFO | Kairos.Train1M] [TIMEOUT Best Iteration: 175] Train AUC=0.9332 | Valid AUC=0.7930
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] === 1분봉 단타 TIMEOUT Validation 결과 ===
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.7903 | Accuracy=0.6307 | Precision=0.4348 | Recall=0.8823 | F1=0.5825
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=41918, 실제 TIMEOUT=18224, Hit Rate=43.48%
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.5788
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.6506
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.7784
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.8539
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_timeout.md
+[2026-05-03 05:09:04 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 완료: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-03 05:16:28 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=20000, TP=3.50%, SL=2.00%, horizon=60분
+[2026-05-03 05:30:27 | INFO | Kairos.Scalping1M] top15/강한 펌핑 타겟 필터 적용(regime 제외): 11037906 -> 732793 rows (top15 또는 strong_change_24h>=40%)
+[2026-05-03 05:32:21 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=732793, cols=390, TP=102945 (14.05%), SL=217294 (29.65%), Timeout=412554 (56.30%)
+[2026-05-03 05:32:50 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=637083, Val=70788, Blind=24922

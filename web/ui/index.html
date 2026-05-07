@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kairos 1m Backtest</title>
+    <link rel="stylesheet" href="/assets/styles.css?v=20260507-trade-window1" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="toolbar">
+        <div>
+          <h1>1분봉 단타 백테스트</h1>
+          <p>TP/SL dual 모델 검증 결과를 실행하고 리포트를 확인합니다.</p>
+        </div>
+        <button id="refreshButton" type="button">새로고침</button>
+      </section>
+
+      <section class="run-panel">
+        <label>
+          모델명
+          <input id="modelInput" placeholder="API 기본값" />
+        </label>
+        <label>
+          Entry Rank Threshold
+          <input id="thresholdInput" type="number" placeholder="API 기본값" step="0.01" />
+        </label>
+        <label>
+          Candidate Top N
+          <input id="candidateInput" type="number" placeholder="API 기본값" min="1" max="50" />
+        </label>
+        <label>
+          Limit
+          <input id="limitInput" type="number" placeholder="기본값" min="300" />
+        </label>
+        <button id="runButton" type="button">백테스트 실행</button>
+      </section>
+
+      <section class="status" id="statusBox">대기 중</section>
+
+      <section class="label-map-section">
+        <div class="chart-header">
+          <div>
+            <h2>Top 15 1분봉 라벨 맵</h2>
+            <p>최신 하루치 기준으로 현재 설정 TP는 파란색, SL은 빨간색, 나머지는 빈 캔들로 표시합니다.</p>
+          </div>
+          <button id="loadLabelMapButton" type="button">Top 15 라벨 로드</button>
+        </div>
+        <div id="labelMapMeta" class="label-map-meta">아직 로드하지 않았습니다.</div>
+        <div id="labelMapGrid" class="label-map-grid"></div>
+      </section>
+
+      <section class="layout">
+        <aside class="report-list">
+          <h2>리포트</h2>
+          <div id="reportList"></div>
+        </aside>
+        <section class="report-detail">
+          <h2 id="reportTitle">선택된 리포트 없음</h2>
+          <div id="summaryGrid" class="summary-grid"></div>
+          <section class="chart-section">
+            <div class="chart-header">
+              <h2 id="chartTitle">거래 차트</h2>
+              <span id="chartMeta">최근 거래를 선택하세요.</span>
+            </div>
+            <div class="label-canvas-wrap">
+              <canvas id="candleChart" width="1200" height="520"></canvas>
+              <div id="tradeCandleTooltip" class="label-candle-tooltip" hidden></div>
+            </div>
+            <div class="label-window-control trade-window-control">
+              <input id="tradeWindowSlider" class="label-window-slider" type="range" min="0" max="0" value="0" disabled />
+              <span id="tradeWindowText" class="label-window-text">0 / 0</span>
+            </div>
+          </section>
+          <section class="trade-section">
+            <h2>최근 거래</h2>
+            <div id="tradeList" class="trade-list"></div>
+          </section>
+          <pre id="reportContent">거래를 선택하면 진입 당시 피처와 판단 근거가 표시됩니다.</pre>
+        </section>
+      </section>
+    </main>
+    <script src="/assets/app.js?v=20260507-trade-window1"></script>
+  </body>
+</html>

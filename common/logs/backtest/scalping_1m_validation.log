@@ -1,0 +1,157 @@
+[2026-04-30 22:18:52 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v2 ===
+[2026-04-30 23:58:54 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v2 ===
+[2026-05-01 00:11:17 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=5 | TP=1 | SL=2 | Timeout=2 | TP Rate=20.00% | Final=90.71 | MDD=19.10%
+[2026-05-01 00:11:18 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v2_dual.trades.json
+[2026-05-01 00:11:18 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v2_dual.md
+[2026-05-01 00:51:51 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v3_h120 ===
+[2026-05-01 00:51:51 | ERROR | Kairos-Scalping1M-Backtest] 1분봉 TP/SL/TIMEOUT 모델 로드 실패. 학습 후 검증하세요. model=scalping_1m_lgbm_v3_h120
+[2026-05-01 01:20:32 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v3_h120 ===
+[2026-05-01 01:39:29 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=0 | TP=0 | SL=0 | Timeout=0 | TP Rate=0.00% | Final=100.00 | MDD=0.00%
+[2026-05-01 01:39:29 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.trades.json
+[2026-05-01 01:39:29 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.md
+[2026-05-01 02:16:44 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v3_h120 ===
+[2026-05-01 02:28:26 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=39 | TP=7 | SL=15 | Timeout=17 | TP Rate=17.95% | Final=88.12 | MDD=38.13%
+[2026-05-01 02:28:26 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.trades.json
+[2026-05-01 02:28:26 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.md
+[2026-05-01 02:28:59 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v3_h120 ===
+[2026-05-01 02:40:08 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=39 | TP=11 | SL=16 | Timeout=12 | TP Rate=28.21% | Final=128.81 | MDD=44.31%
+[2026-05-01 02:40:08 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.trades.json
+[2026-05-01 02:40:08 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.md
+[2026-05-01 02:49:19 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v3_h120 ===
+[2026-05-01 02:59:23 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=17 | TP=6 | SL=3 | Timeout=8 | TP Rate=35.29% | Final=185.52 | MDD=7.88%
+[2026-05-01 02:59:23 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.trades.json
+[2026-05-01 02:59:23 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.md
+[2026-05-01 04:10:26 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v4_pump20_h120 ===
+[2026-05-01 04:18:09 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=0 | TP=0 | SL=0 | Timeout=0 | TP Rate=0.00% | Final=100.00 | MDD=0.00%
+[2026-05-01 04:18:09 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v4_pump20_h120_dual.trades.json
+[2026-05-01 04:18:09 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v4_pump20_h120_dual.md
+[2026-05-01 04:35:05 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v3_h60 ===
+[2026-05-01 04:42:06 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=1 | TP=0 | SL=0 | Timeout=1 | TP Rate=0.00% | Final=101.26 | MDD=0.00%
+[2026-05-01 04:42:06 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h60_dual.trades.json
+[2026-05-01 04:42:06 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h60_dual.md
+[2026-05-01 22:06:36 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v5_tp35_sl20_h60 ===
+[2026-05-01 22:15:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=0 | TP=0 | SL=0 | Timeout=0 | TP Rate=0.00% | Final=100.00 | MDD=0.00%
+[2026-05-01 22:15:57 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v5_tp35_sl20_h60_dual.trades.json
+[2026-05-01 22:15:57 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v5_tp35_sl20_h60_dual.md
+[2026-05-02 01:13:51 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v6_directional_tp35_sl20_h60 ===
+[2026-05-02 01:23:29 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=0 | TP=0 | SL=0 | Timeout=0 | TP Rate=0.00% | Final=100.00 | MDD=0.00%
+[2026-05-02 01:23:29 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v6_directional_tp35_sl20_h60_dual.trades.json
+[2026-05-02 01:23:29 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v6_directional_tp35_sl20_h60_dual.md
+[2026-05-02 02:45:14 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v7_support_breakout_tp35_sl20_h60 ===
+[2026-05-02 02:55:30 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=18 | TP=3 | SL=8 | Timeout=7 | TP Rate=16.67% | Final=92.64 | MDD=21.21%
+[2026-05-02 02:55:30 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v7_support_breakout_tp35_sl20_h60_dual.trades.json
+[2026-05-02 02:55:30 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v7_support_breakout_tp35_sl20_h60_dual.md
+[2026-05-02 04:16:34 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-02 04:29:10 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=20 | TP=5 | SL=5 | Timeout=10 | TP Rate=25.00% | Final=131.05 | MDD=14.38%
+[2026-05-02 04:29:10 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.trades.json
+[2026-05-02 04:29:10 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.md
+[2026-05-02 06:09:28 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v3_h120 ===
+[2026-05-02 06:22:00 | INFO | Kairos-Scalping1M-Backtest] 검증 입력의 추가 피처 39개는 저장 모델에 맞춰 제외합니다.
+[2026-05-02 06:22:00 | INFO | Kairos-Scalping1M-Backtest] 검증 입력의 추가 피처 39개는 저장 모델에 맞춰 제외합니다.
+[2026-05-02 06:22:00 | INFO | Kairos-Scalping1M-Backtest] 검증 입력의 추가 피처 39개는 저장 모델에 맞춰 제외합니다.
+[2026-05-02 06:23:44 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=35 | TP=8 | SL=15 | Timeout=12 | TP Rate=22.86% | Final=93.67 | MDD=39.51%
+[2026-05-02 06:23:44 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.trades.json
+[2026-05-02 06:23:44 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v3_h120_dual.md
+[2026-05-03 05:16:25 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-03 05:33:23 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=9 | TP=3 | SL=2 | Timeout=4 | TP Rate=33.33% | Final=114.82 | MDD=9.79%
+[2026-05-03 05:33:24 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.trades.json
+[2026-05-03 05:33:24 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.md
+[2026-05-04 02:59:53 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-04 05:21:16 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-04 11:20:27 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-04 12:22:51 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=9 | TP=4 | SL=2 | Timeout=3 | TP Rate=44.44% | Final=121.11 | MDD=8.53%
+[2026-05-04 12:22:52 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.trades.json
+[2026-05-04 12:22:52 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.md
+[2026-05-06 01:02:22 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-06 01:26:05 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=2 | TP=0 | SL=0 | Timeout=2 | TP Rate=0.00% | Final=103.08 | MDD=0.00%
+[2026-05-06 01:26:05 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.trades.json
+[2026-05-06 01:26:05 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.md
+[2026-05-06 10:40:43 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60 ===
+[2026-05-06 10:59:09 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=6 | TP=1 | SL=1 | Timeout=4 | TP Rate=16.67% | Final=118.13 | MDD=5.11%
+[2026-05-06 10:59:09 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.trades.json
+[2026-05-06 10:59:09 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_dual.md
+[2026-05-06 12:24:05 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp50_sl30_h60 ===
+[2026-05-06 12:24:05 | ERROR | Kairos-Scalping1M-Backtest] 1분봉 TP/SL/TIMEOUT 모델 로드 실패. 학습 후 검증하세요. model=v1_tp50_sl30_h60
+[2026-05-06 12:24:29 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60 ===
+[2026-05-06 12:29:27 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60 ===
+[2026-05-06 12:40:37 | ERROR | Kairos-Scalping1M-Backtest] 1분봉 모델/피처 스키마 불일치로 검증을 중단합니다. 현재 저장 모델은 이전 피처셋으로 학습되었습니다. 누락 피처=['change_24h_rank', 'change_24h_rank_pct', 'quote_volume_24h_rank', 'quote_volume_24h_rank_pct'], 추가 피처=[]. trainer.train_scalping_1m_model로 모델을 다시 학습한 뒤 검증하세요.
+[2026-05-06 12:40:37 | ERROR | Kairos-Scalping1M-Backtest] 1분봉 모델/피처 스키마 불일치로 검증을 중단합니다. 현재 저장 모델은 이전 피처셋으로 학습되었습니다. 누락 피처=['change_24h_rank', 'change_24h_rank_pct', 'quote_volume_24h_rank', 'quote_volume_24h_rank_pct'], 추가 피처=[]. trainer.train_scalping_1m_model로 모델을 다시 학습한 뒤 검증하세요.
+[2026-05-06 12:40:37 | ERROR | Kairos-Scalping1M-Backtest] 1분봉 모델/피처 스키마 불일치로 검증을 중단합니다. 현재 저장 모델은 이전 피처셋으로 학습되었습니다. 누락 피처=['change_24h_rank', 'change_24h_rank_pct', 'quote_volume_24h_rank', 'quote_volume_24h_rank_pct'], 추가 피처=[]. trainer.train_scalping_1m_model로 모델을 다시 학습한 뒤 검증하세요.
+[2026-05-06 16:36:45 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp50_sl30_h120 ===
+[2026-05-06 16:49:30 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=18 | TP=6 | SL=6 | Timeout=6 | TP Rate=33.33% | Final=129.57 | MDD=33.12%
+[2026-05-06 16:49:30 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-03) | Entries=7 | TP=1 | SL=2 | Timeout=4 | PnL=+1.3074 USDT | Return=+1.31%
+[2026-05-06 16:49:30 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-04) | Entries=11 | TP=5 | SL=4 | Timeout=2 | PnL=+28.2617 USDT | Return=+28.26%
+[2026-05-06 16:49:30 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-06 16:49:31 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.trades.json
+[2026-05-06 16:49:31 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.md
+[2026-05-06 17:42:32 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp50_sl30_h120 ===
+[2026-05-06 17:55:37 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=9 | TP=3 | SL=4 | Timeout=2 | TP Rate=33.33% | Final=109.47 | MDD=15.91%
+[2026-05-06 17:55:37 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-03) | Entries=5 | TP=2 | SL=2 | Timeout=1 | PnL=+6.6227 USDT | Return=+6.62%
+[2026-05-06 17:55:37 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-04) | Entries=4 | TP=1 | SL=2 | Timeout=1 | PnL=+2.8458 USDT | Return=+2.85%
+[2026-05-06 17:55:37 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-05) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-06 17:55:37 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-06) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-06 17:55:37 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.trades.json
+[2026-05-06 17:55:37 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.md
+[2026-05-07 03:16:44 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp50_sl30_h120 ===
+[2026-05-07 03:32:50 | INFO | Kairos-Scalping1M-Backtest] 청산용 원본 1분봉 가격 데이터 로드 완료: rows=219714, symbols=70, range=2026-05-03 16:30:00+00:00~2026-05-06 18:29:00+00:00
+[2026-05-07 03:34:12 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=44 | TP=14 | SL=19 | Timeout=11 | TP Rate=31.82% | Final=119.72 | MDD=34.74%
+[2026-05-07 03:34:12 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-04) | Entries=18 | TP=8 | SL=7 | Timeout=3 | PnL=+43.5901 USDT | Return=+43.59%
+[2026-05-07 03:34:12 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-05) | Entries=10 | TP=2 | SL=5 | Timeout=3 | PnL=-21.3372 USDT | Return=-21.34%
+[2026-05-07 03:34:12 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=16 | TP=4 | SL=7 | Timeout=5 | PnL=-2.5367 USDT | Return=-2.54%
+[2026-05-07 03:34:12 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-07) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-07 03:34:12 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.trades.json
+[2026-05-07 03:34:12 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.md
+[2026-05-07 05:55:28 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp50_sl30_h120 ===
+[2026-05-07 06:11:54 | INFO | Kairos-Scalping1M-Backtest] 청산용 원본 1분봉 가격 데이터 로드 완료: rows=229265, symbols=72, range=2026-05-03 19:09:00+00:00~2026-05-06 21:08:00+00:00
+[2026-05-07 06:13:01 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=87 | TP=29 | SL=46 | Timeout=12 | TP Rate=33.33% | Final=99.87 | MDD=57.18%
+[2026-05-07 06:13:01 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-04) | Entries=22 | TP=7 | SL=12 | Timeout=3 | PnL=+1.3668 USDT | Return=+1.37%
+[2026-05-07 06:13:01 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-05) | Entries=33 | TP=11 | SL=21 | Timeout=1 | PnL=-36.5460 USDT | Return=-36.55%
+[2026-05-07 06:13:01 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=31 | TP=10 | SL=13 | Timeout=8 | PnL=+24.2491 USDT | Return=+24.25%
+[2026-05-07 06:13:01 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-07) | Entries=1 | TP=1 | SL=0 | Timeout=0 | PnL=+10.7997 USDT | Return=+10.80%
+[2026-05-07 06:13:02 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.trades.json
+[2026-05-07 06:13:02 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp50_sl30_h120_dual.md
+[2026-05-07 09:54:31 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp35_sl20_h60 ===
+[2026-05-07 10:05:53 | INFO | Kairos-Scalping1M-Backtest] 청산용 원본 1분봉 가격 데이터 로드 완료: rows=234446, symbols=72, range=2026-05-04 00:04:00+00:00~2026-05-07 01:03:00+00:00
+[2026-05-07 10:06:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=179 | TP=59 | SL=90 | Timeout=30 | TP Rate=32.96% | Final=107.10 | MDD=62.30%
+[2026-05-07 10:06:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-04) | Entries=36 | TP=16 | SL=17 | Timeout=3 | PnL=+40.9178 USDT | Return=+40.92%
+[2026-05-07 10:06:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-05) | Entries=67 | TP=21 | SL=38 | Timeout=8 | PnL=-43.7848 USDT | Return=-43.78%
+[2026-05-07 10:06:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=59 | TP=13 | SL=30 | Timeout=16 | PnL=-32.2925 USDT | Return=-32.29%
+[2026-05-07 10:06:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-07) | Entries=17 | TP=9 | SL=5 | Timeout=3 | PnL=+42.2623 USDT | Return=+42.26%
+[2026-05-07 10:06:57 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp35_sl20_h60_dual.trades.json
+[2026-05-07 10:06:57 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp35_sl20_h60_dual.md
+[2026-05-07 10:14:42 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp35_sl20_h60 ===
+[2026-05-07 10:26:08 | INFO | Kairos-Scalping1M-Backtest] 청산용 원본 1분봉 가격 데이터 로드 완료: rows=234752, symbols=72, range=2026-05-04 00:24:00+00:00~2026-05-07 01:23:00+00:00
+[2026-05-07 10:27:25 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=2 | TP=1 | SL=0 | Timeout=1 | TP Rate=50.00% | Final=104.40 | MDD=3.67%
+[2026-05-07 10:27:25 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-04) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-07 10:27:25 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-05) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-07 10:27:25 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=1 | TP=0 | SL=0 | Timeout=1 | PnL=-3.6661 USDT | Return=-3.67%
+[2026-05-07 10:27:25 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-07) | Entries=1 | TP=1 | SL=0 | Timeout=0 | PnL=+8.0680 USDT | Return=+8.07%
+[2026-05-07 10:27:26 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp35_sl20_h60_dual.trades.json
+[2026-05-07 10:27:26 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp35_sl20_h60_dual.md
+[2026-05-07 10:36:42 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp35_sl20_h60 ===
+[2026-05-07 10:47:56 | INFO | Kairos-Scalping1M-Backtest] 청산용 원본 1분봉 가격 데이터 로드 완료: rows=235433, symbols=72, range=2026-05-04 00:46:00+00:00~2026-05-07 01:45:00+00:00
+[2026-05-07 10:48:58 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=86 | TP=27 | SL=43 | Timeout=16 | TP Rate=31.40% | Final=107.99 | MDD=51.16%
+[2026-05-07 10:48:58 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-04) | Entries=13 | TP=5 | SL=6 | Timeout=2 | PnL=+17.7920 USDT | Return=+17.79%
+[2026-05-07 10:48:58 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-05) | Entries=35 | TP=8 | SL=22 | Timeout=5 | PnL=-47.5015 USDT | Return=-47.50%
+[2026-05-07 10:48:58 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=29 | TP=9 | SL=14 | Timeout=6 | PnL=+5.1409 USDT | Return=+5.14%
+[2026-05-07 10:48:58 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-07) | Entries=9 | TP=5 | SL=1 | Timeout=3 | PnL=+32.5562 USDT | Return=+32.56%
+[2026-05-07 10:48:59 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp35_sl20_h60_dual.trades.json
+[2026-05-07 10:48:59 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\scalping_1m_results_v1_tp35_sl20_h60_dual.md
+[2026-05-07 11:34:17 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp50_sl30_h120 ===
+[2026-05-07 11:47:43 | INFO | Kairos-Scalping1M-Backtest] 청산용 원본 1분봉 가격 데이터 로드 완료: rows=239685, symbols=72, range=2026-05-04 00:45:00+00:00~2026-05-07 02:44:00+00:00
+[2026-05-07 11:48:55 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=40 | TP=9 | SL=24 | Timeout=7 | TP Rate=22.50% | Final=47.86 | MDD=68.69%
+[2026-05-07 11:48:55 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-04) | Entries=10 | TP=3 | SL=5 | Timeout=2 | PnL=+9.6965 USDT | Return=+9.70%
+[2026-05-07 11:48:55 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-05) | Entries=21 | TP=6 | SL=14 | Timeout=1 | PnL=-39.6603 USDT | Return=-39.66%
+[2026-05-07 11:48:55 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=9 | TP=0 | SL=5 | Timeout=4 | PnL=-22.1717 USDT | Return=-22.17%
+[2026-05-07 11:48:55 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-07) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-07 11:48:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\v1_tp50_sl30_h120_dual.trades.json
+[2026-05-07 11:48:56 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\v1_tp50_sl30_h120_dual.md
+[2026-05-07 12:19:19 | INFO | Kairos-Scalping1M-Backtest] === 1분봉 단타 Blind 검증 시작: v1_tp50_sl30_h120 ===
+[2026-05-07 12:30:29 | INFO | Kairos-Scalping1M-Backtest] 청산용 원본 1분봉 가격 데이터 로드 완료: rows=243131, symbols=73, range=2026-05-04 01:28:00+00:00~2026-05-07 03:27:00+00:00
+[2026-05-07 12:32:17 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 결과 | Entries=6 | TP=1 | SL=2 | Timeout=3 | TP Rate=16.67% | Final=107.15 | MDD=15.67%
+[2026-05-07 12:32:17 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 1일차(2026-05-04) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-07 12:32:17 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 2일차(2026-05-05) | Entries=0 | TP=0 | SL=0 | Timeout=0 | PnL=+0.0000 USDT | Return=+0.00%
+[2026-05-07 12:32:17 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 3일차(2026-05-06) | Entries=5 | TP=1 | SL=1 | Timeout=3 | PnL=+16.3083 USDT | Return=+16.31%
+[2026-05-07 12:32:17 | INFO | Kairos-Scalping1M-Backtest] 1분봉 Blind 4일차(2026-05-07) | Entries=1 | TP=0 | SL=1 | Timeout=0 | PnL=-9.1593 USDT | Return=-9.16%
+[2026-05-07 12:32:18 | INFO | Kairos-Scalping1M-Backtest] 1분봉 전체 거래 JSON 저장 완료: C:\dev\kairos_1m\common\logs\backtest\v1_tp50_sl30_h120_dual.trades.json
+[2026-05-07 12:32:18 | INFO | Kairos-Scalping1M-Backtest] 1분봉 단타 Blind 검증 리포트 저장 완료: C:\dev\kairos_1m\common\logs\backtest\v1_tp50_sl30_h120_dual.md

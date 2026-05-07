@@ -1,0 +1,225 @@
+[2026-05-07 03:16:46 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=5.00%, SL=3.00%, horizon=120분
+[2026-05-07 03:18:01 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 03:20:46 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 03:22:09 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 03:24:41 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=183)
+[2026-05-07 03:26:03 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=216)
+[2026-05-07 03:27:16 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=250)
+[2026-05-07 03:29:45 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=315)
+[2026-05-07 03:31:04 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=347)
+[2026-05-07 03:31:06 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 546250 -> 498850 rows (change_24h>=20%)
+[2026-05-07 03:32:45 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=498850, cols=385, TP=153054 (30.68%), SL=257547 (51.63%), Timeout=88249 (17.69%)
+[2026-05-07 03:32:47 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=412550, Val=45839, Blind=40461
+[2026-05-07 05:55:31 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=5.00%, SL=3.00%, horizon=120분
+[2026-05-07 05:57:10 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 05:59:53 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 06:01:08 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 06:03:43 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 06:05:03 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 06:06:17 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 06:08:44 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=317)
+[2026-05-07 06:10:05 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=349)
+[2026-05-07 06:10:06 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 546793 -> 499393 rows (change_24h>=20%)
+[2026-05-07 06:11:49 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=499393, cols=385, TP=153005 (30.64%), SL=257807 (51.62%), Timeout=88581 (17.74%)
+[2026-05-07 06:11:51 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=412538, Val=45838, Blind=41017
+[2026-05-07 07:10:59 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 시작: v1_tp35_sl20_h60 ===
+[2026-05-07 07:11:02 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=3.50%, SL=2.00%, horizon=60분
+[2026-05-07 07:12:12 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 07:14:30 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 07:15:44 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 07:18:12 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 07:19:23 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 07:20:33 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 07:22:52 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=317)
+[2026-05-07 07:24:06 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=349)
+[2026-05-07 07:24:08 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547394 -> 499934 rows (change_24h>=20%)
+[2026-05-07 07:25:57 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=499934, cols=385, TP=147378 (29.48%), SL=269083 (53.82%), Timeout=83473 (16.70%)
+[2026-05-07 07:25:59 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=412952, Val=45884, Blind=41098
+[2026-05-07 07:26:01 | INFO | Kairos.Train1M] 1분봉 TP 학습 입력 준비 완료 | Train=412952, Val=45884, Feature=349, Positive=123590
+[2026-05-07 07:26:01 | INFO | Kairos.Train1M] 1분봉 TP positive class weight 적용: positive=123590, negative=289362, scale_pos_weight=1.17
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] [TP Best Iteration: 52] Train AUC=0.6608 | Valid AUC=0.5759
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] === 1분봉 단타 TP Validation 결과 ===
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.5726 | Accuracy=0.3382 | Precision=0.3246 | Recall=0.9831 | F1=0.4881
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=44595, 실제 TP=14477, Hit Rate=32.46%
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.3871
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.4013
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.4290
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.4845
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp35_sl20_h60_tp.md
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 1분봉 SL 학습 입력 준비 완료 | Train=412952, Val=45884, Feature=349, Positive=225162
+[2026-05-07 07:26:22 | INFO | Kairos.Train1M] 1분봉 SL positive class weight 적용: positive=225162, negative=187790, scale_pos_weight=1.00
+[2026-05-07 07:26:41 | INFO | Kairos.Train1M] [SL Best Iteration: 39] Train AUC=0.6440 | Valid AUC=0.5928
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] === 1분봉 단타 SL Validation 결과 ===
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.5979 | Accuracy=0.5433 | Precision=0.5433 | Recall=1.0000 | F1=0.7040
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=45884, 실제 SL=24927, Hit Rate=54.33%
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.6133
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.6166
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.6272
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.6321
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp35_sl20_h60_sl.md
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 1분봉 TIMEOUT 학습 입력 준비 완료 | Train=412952, Val=45884, Feature=349, Positive=64200
+[2026-05-07 07:26:42 | INFO | Kairos.Train1M] 1분봉 TIMEOUT positive class weight 적용: positive=64200, negative=348752, scale_pos_weight=2.72
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] [TIMEOUT Best Iteration: 25] Train AUC=0.8681 | Valid AUC=0.8271
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] === 1분봉 단타 TIMEOUT Validation 결과 ===
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.8175 | Accuracy=0.6512 | Precision=0.2646 | Recall=0.8811 | F1=0.4069
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=20752, 실제 TIMEOUT=5490, Hit Rate=26.46%
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.3958
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.4416
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.4977
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.5232
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp35_sl20_h60_timeout.md
+[2026-05-07 07:27:02 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 완료: v1_tp35_sl20_h60 ===
+[2026-05-07 09:54:34 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=3.50%, SL=2.00%, horizon=60분
+[2026-05-07 09:55:29 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 09:57:17 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 09:58:12 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 09:59:56 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 10:00:48 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 10:01:39 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 10:03:22 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=317)
+[2026-05-07 10:04:20 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=349)
+[2026-05-07 10:04:21 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547618 -> 500158 rows (change_24h>=20%)
+[2026-05-07 10:05:48 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=500158, cols=385, TP=147463 (29.48%), SL=269035 (53.79%), Timeout=83660 (16.73%)
+[2026-05-07 10:05:50 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=413230, Val=45915, Blind=41013
+[2026-05-07 10:14:42 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=3.50%, SL=2.00%, horizon=60분
+[2026-05-07 10:15:39 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 10:17:31 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 10:18:27 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 10:20:11 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 10:21:05 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 10:21:59 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 10:23:41 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=317)
+[2026-05-07 10:24:39 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=349)
+[2026-05-07 10:24:40 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547624 -> 500164 rows (change_24h>=20%)
+[2026-05-07 10:26:04 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=500164, cols=385, TP=147476 (29.49%), SL=269044 (53.79%), Timeout=83644 (16.72%)
+[2026-05-07 10:26:06 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=413237, Val=45916, Blind=41011
+[2026-05-07 10:36:44 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=3.50%, SL=2.00%, horizon=60분
+[2026-05-07 10:37:38 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 10:39:24 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 10:40:20 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 10:42:05 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 10:42:56 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 10:43:47 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 10:45:29 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=317)
+[2026-05-07 10:46:27 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=349)
+[2026-05-07 10:46:28 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547695 -> 500235 rows (change_24h>=20%)
+[2026-05-07 10:47:53 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=500235, cols=385, TP=147493 (29.48%), SL=269123 (53.80%), Timeout=83619 (16.72%)
+[2026-05-07 10:47:54 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=413321, Val=45925, Blind=40989
+[2026-05-07 11:35:17 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=5.00%, SL=3.00%, horizon=120분
+[2026-05-07 11:36:23 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 11:38:16 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 11:39:14 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 11:41:10 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 11:42:06 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 11:43:05 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 11:45:02 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=317)
+[2026-05-07 11:46:06 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=349)
+[2026-05-07 11:46:07 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547297 -> 499897 rows (change_24h>=20%)
+[2026-05-07 11:47:38 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=499897, cols=385, TP=153230 (30.65%), SL=257827 (51.58%), Timeout=88840 (17.77%)
+[2026-05-07 11:47:39 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=413014, Val=45891, Blind=40992
+[2026-05-07 11:51:29 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 시작: v1_tp50_sl30_h120 ===
+[2026-05-07 11:51:29 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=5.00%, SL=3.00%, horizon=120분
+[2026-05-07 11:52:25 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 11:54:11 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 11:55:04 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 11:56:49 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 11:57:41 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 11:58:33 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 12:00:19 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=318)
+[2026-05-07 12:01:17 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=350)
+[2026-05-07 12:01:18 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547333 -> 499933 rows (change_24h>=20%)
+[2026-05-07 12:02:30 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=499933, cols=385, TP=153221 (30.65%), SL=257885 (51.58%), Timeout=88827 (17.77%)
+[2026-05-07 12:02:31 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=413087, Val=45899, Blind=40947
+[2026-05-07 12:02:32 | INFO | Kairos.Train1M] 1분봉 TP 학습 입력 준비 완료 | Train=413087, Val=45899, Feature=349, Positive=128441
+[2026-05-07 12:02:32 | INFO | Kairos.Train1M] 1분봉 TP positive class weight 적용: positive=128441, negative=284646, scale_pos_weight=1.11
+[2026-05-07 12:02:43 | INFO | Kairos.Train1M] [TP Best Iteration: 14] Train AUC=0.6484 | Valid AUC=0.5563
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] === 1분봉 단타 TP Validation 결과 ===
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.5523 | Accuracy=0.3426 | Precision=0.3426 | Recall=1.0000 | F1=0.5103
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=45899, 실제 TP=15724, Hit Rate=34.26%
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.3544
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.3626
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.3828
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.4203
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp50_sl30_h120_tp.md
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 1분봉 SL 학습 입력 준비 완료 | Train=413087, Val=45899, Feature=349, Positive=216305
+[2026-05-07 12:02:44 | INFO | Kairos.Train1M] 1분봉 SL positive class weight 적용: positive=216305, negative=196782, scale_pos_weight=1.00
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] [SL Best Iteration: 7] Train AUC=0.6428 | Valid AUC=0.6060
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] === 1분봉 단타 SL Validation 결과 ===
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.6117 | Accuracy=0.5167 | Precision=0.5167 | Recall=1.0000 | F1=0.6814
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=45899, 실제 SL=23718, Hit Rate=51.67%
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.5478
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.5495
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.5500
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.5523
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp50_sl30_h120_sl.md
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 1분봉 TIMEOUT 학습 입력 준비 완료 | Train=413087, Val=45899, Feature=349, Positive=68341
+[2026-05-07 12:02:55 | INFO | Kairos.Train1M] 1분봉 TIMEOUT positive class weight 적용: positive=68341, negative=344746, scale_pos_weight=2.52
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] [TIMEOUT Best Iteration: 22] Train AUC=0.8616 | Valid AUC=0.8088
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] === 1분봉 단타 TIMEOUT Validation 결과 ===
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.7970 | Accuracy=0.6318 | Precision=0.2597 | Recall=0.8742 | F1=0.4005
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=21735, 실제 TIMEOUT=5645, Hit Rate=25.97%
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.3794
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.4130
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.4503
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.4936
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp50_sl30_h120_timeout.md
+[2026-05-07 12:03:10 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 완료: v1_tp50_sl30_h120 ===
+[2026-05-07 12:05:32 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 시작: v1_tp50_sl30_h120 ===
+[2026-05-07 12:05:32 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=5.00%, SL=3.00%, horizon=120분
+[2026-05-07 12:06:25 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 12:08:07 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 12:08:58 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 12:10:44 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 12:11:38 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 12:12:33 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 12:14:18 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=318)
+[2026-05-07 12:15:14 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=350)
+[2026-05-07 12:15:16 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547357 -> 499957 rows (change_24h>=20%)
+[2026-05-07 12:16:27 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=499957, cols=385, TP=153207 (30.64%), SL=257935 (51.59%), Timeout=88815 (17.76%)
+[2026-05-07 12:16:29 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=413167, Val=45908, Blind=40882
+[2026-05-07 12:16:30 | INFO | Kairos.Train1M] 1분봉 TP 학습 입력 준비 완료 | Train=413167, Val=45908, Feature=349, Positive=128461
+[2026-05-07 12:16:30 | INFO | Kairos.Train1M] 1분봉 TP positive class weight 적용: positive=128461, negative=284706, scale_pos_weight=1.11
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] [TP Best Iteration: 1] Train AUC=0.6127 | Valid AUC=0.5604
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] === 1분봉 단타 TP Validation 결과 ===
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.5589 | Accuracy=0.3430 | Precision=0.3430 | Recall=1.0000 | F1=0.5108
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=45908, 실제 TP=15747, Hit Rate=34.30%
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.3201
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.3262
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.3262
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.3263
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp50_sl30_h120_tp.md
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 1분봉 SL 학습 입력 준비 완료 | Train=413167, Val=45908, Feature=349, Positive=216374
+[2026-05-07 12:16:41 | INFO | Kairos.Train1M] 1분봉 SL positive class weight 적용: positive=216374, negative=196793, scale_pos_weight=1.00
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] [SL Best Iteration: 4] Train AUC=0.6362 | Valid AUC=0.6075
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] === 1분봉 단타 SL Validation 결과 ===
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.6141 | Accuracy=0.5161 | Precision=0.5161 | Recall=1.0000 | F1=0.6808
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=45908, 실제 SL=23694, Hit Rate=51.61%
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.5407
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.5413
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.5413
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.5473
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp50_sl30_h120_sl.md
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 1분봉 TIMEOUT 학습 입력 준비 완료 | Train=413167, Val=45908, Feature=349, Positive=68332
+[2026-05-07 12:16:52 | INFO | Kairos.Train1M] 1분봉 TIMEOUT positive class weight 적용: positive=68332, negative=344835, scale_pos_weight=2.52
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] [TIMEOUT Best Iteration: 15] Train AUC=0.8584 | Valid AUC=0.8087
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] === 1분봉 단타 TIMEOUT Validation 결과 ===
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] Threshold=0.20 | AUC=0.7971 | Accuracy=0.6547 | Precision=0.2668 | Recall=0.8298 | F1=0.4037
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] 신호 상세 | PositiveSignals=20115, 실제 TIMEOUT=5366, Hit Rate=26.68%
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] 상위 10% 확률 커트라인: 0.3218
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] 상위 5% 확률 커트라인: 0.3503
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] 상위 1% 확률 커트라인: 0.3795
+[2026-05-07 12:17:05 | INFO | Kairos.Train1M] 상위 0.1% 확률 커트라인: 0.4071
+[2026-05-07 12:17:06 | INFO | Kairos.Train1M] 1분봉 피처 중요도 리포트 저장 완료: C:\dev\kairos_1m\common\models\feature_importance_v1_tp50_sl30_h120_timeout.md
+[2026-05-07 12:17:06 | INFO | Kairos.Train1M] === 1분봉 단타 모델 학습 완료: v1_tp50_sl30_h120 ===
+[2026-05-07 12:19:19 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 시작: symbols=555, limit=47520, TP=5.00%, SL=3.00%, horizon=120분
+[2026-05-07 12:20:12 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 50/555 (누적 유효 심볼=30)
+[2026-05-07 12:22:01 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 150/555 (누적 유효 심볼=89)
+[2026-05-07 12:22:54 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 200/555 (누적 유효 심볼=121)
+[2026-05-07 12:24:43 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 300/555 (누적 유효 심볼=184)
+[2026-05-07 12:25:38 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 350/555 (누적 유효 심볼=218)
+[2026-05-07 12:26:33 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 400/555 (누적 유효 심볼=252)
+[2026-05-07 12:28:16 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 500/555 (누적 유효 심볼=318)
+[2026-05-07 12:29:13 | INFO | Kairos.Scalping1M] 1분봉 심볼 피처 생성 진행: 555/555 (누적 유효 심볼=350)
+[2026-05-07 12:29:14 | INFO | Kairos.Scalping1M] 24h 펌핑 타겟 필터 적용: 547358 -> 499958 rows (change_24h>=20%)
+[2026-05-07 12:30:25 | INFO | Kairos.Scalping1M] 1분봉 단타 데이터셋 생성 완료: rows=499958, cols=385, TP=153216 (30.65%), SL=257939 (51.59%), Timeout=88803 (17.76%)
+[2026-05-07 12:30:27 | INFO | Kairos.Scalping1M] 1분봉 데이터 분할 완료: Train=413235, Val=45915, Blind=40808

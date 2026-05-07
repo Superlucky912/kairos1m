@@ -1,0 +1,16 @@
+services:
+  kairosdb:
+    image: timescale/timescaledb:latest-pg15
+    container_name: kairosdb
+    restart: always
+    environment:
+      - POSTGRES_DB=kairos
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=nixon # .env와 일치시켜주세요
+    ports:
+      - "127.0.0.1:5433:5432" # 127.0.0.1로 명시하여 외부 접근 차단 및 보안 강화
+    volumes:
+      - kairos_db_data:/var/lib/postgresql/data
+
+volumes:
+  kairos_db_data:

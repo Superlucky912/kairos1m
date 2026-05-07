@@ -1,0 +1,25 @@
+{
+  "apply": true,
+  "generated_at": "2026-05-07T08:50:10.109857+00:00",
+  "summary": {
+    "5m": {
+      "source_groups": 1058,
+      "complete_groups": 576,
+      "incomplete_groups": 482,
+      "skipped_missing_oi": 0,
+      "upserted_rows": 576
+    }
+  },
+  "batches": [
+    {
+      "timeframe": "5m",
+      "window_start": "2026-05-07T08:40:00+00:00",
+      "window_end": "2026-05-07T08:50:00+00:00",
+      "source_groups": 1058,
+      "complete_groups": 576,
+      "incomplete_groups": 482,
+      "skipped_missing_oi": 0,
+      "upserted_rows": 576
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+[2026-05-02 07:07:19 | INFO | Kairos.SynthesizeTF] timeframe 합성 시작: apply=False, range=2026-05-01T21:30:00+00:00~2026-05-01T21:47:00+00:00, timeframes=5m
+[2026-05-02 07:07:19 | INFO | Kairos.SynthesizeTF] [5m] 2026-05-01T21:30:00+00:00~2026-05-01T21:47:00+00:00 source=16 complete=0 incomplete=16 missing_oi=0 upserted=0
+[2026-05-02 07:07:19 | INFO | Kairos.SynthesizeTF] 합성 리포트 저장 완료: common\logs\backtest\synthesize_timeframes_dryrun_check.json

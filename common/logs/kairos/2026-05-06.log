@@ -1,0 +1,2066 @@
+[2026-05-06 00:14:54 | INFO | Kairos] 바이낸스 내부 웹소켓 큐 크기 패치 적용 완료 (10,000)
+[2026-05-06 00:14:54 | INFO | Kairos] Binance 서버 시간 오프셋 동기화 완료 (2049ms)
+[2026-05-06 00:14:55 | INFO | Kairos] Binance REST Client 초기화 완료
+[2026-05-06 00:14:55 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:14:57 | ERROR | Kairos] DB 연결 실패: connection to server at "127.0.0.1", port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-05-06 00:15:21 | INFO | Kairos] 바이낸스 내부 웹소켓 큐 크기 패치 적용 완료 (10,000)
+[2026-05-06 00:15:21 | INFO | Kairos] Binance 서버 시간 오프셋 동기화 완료 (2049ms)
+[2026-05-06 00:15:21 | INFO | Kairos] Binance REST Client 초기화 완료
+[2026-05-06 00:15:21 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:15:21 | ERROR | Kairos] DB 연결 실패: connection to server at "127.0.0.1", port 5433 failed: FATAL:  the database system is starting up
+
+[2026-05-06 00:15:43 | INFO | Kairos] 바이낸스 내부 웹소켓 큐 크기 패치 적용 완료 (10,000)
+[2026-05-06 00:15:44 | INFO | Kairos] Binance 서버 시간 오프셋 동기화 완료 (2051ms)
+[2026-05-06 00:15:44 | INFO | Kairos] Binance REST Client 초기화 완료
+[2026-05-06 00:15:44 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:15:44 | INFO | Kairos] DB 연결 성공
+[2026-05-06 00:15:44 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 00:15:44 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, LABUSDT, FHEUSDT, HIVEUSDT, TONUSDT, MUSDT, RAVEUSDT, 1000LUNCUSDT, PENGUUSDT, MORPHOUSDT, NOTUSDT, GWEIUSDT, CFGUSDT, EVAAUSDT, USTCUSDT
+[2026-05-06 00:15:44 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 00:15:44 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dogsusdt@kline_1m, labusdt@kline_1m, fheusdt@kline_1m, hiveusdt@kline_1m, tonusdt@kline_1m..., raw=True)
+[2026-05-06 00:15:44 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:15:44 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:15:45 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:15:45 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:15:45 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=labusdt@kline_1m)
+[2026-05-06 00:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 00:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 00:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:02:16 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:02:16 | INFO | Kairos] DB 연결 성공
+[2026-05-06 01:02:16 | INFO | Kairos] DB 연결 종료
+[2026-05-06 01:02:22 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_tp)
+[2026-05-06 01:02:22 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_sl)
+[2026-05-06 01:02:22 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_timeout)
+[2026-05-06 01:02:22 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_tp.pkl
+[2026-05-06 01:02:22 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_sl.pkl
+[2026-05-06 01:02:22 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_timeout.pkl
+[2026-05-06 01:02:22 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:02:22 | INFO | Kairos] DB 연결 성공
+[2026-05-06 01:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 01:10:00 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, LABUSDT, FHEUSDT, TONUSDT, MUSDT, HIVEUSDT, 1000LUNCUSDT, RAVEUSDT, NOTUSDT, PENGUUSDT, GWEIUSDT, MORPHOUSDT, CHRUSDT, USTCUSDT, CFGUSDT
+[2026-05-06 01:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 01:11:05 | WARNING | Kairos] 시장 웹소켓 재시작 전 대기열 폐기 (폐기 건수=1)
+[2026-05-06 01:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 01:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dogsusdt@kline_1m, labusdt@kline_1m, fheusdt@kline_1m, tonusdt@kline_1m, musdt@kline_1m..., raw=True)
+[2026-05-06 01:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=hiveusdt@kline_1m)
+[2026-05-06 01:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:26:06 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:26:06 | INFO | Kairos] DB 연결 성공
+[2026-05-06 01:26:06 | INFO | Kairos] DB 연결 종료
+[2026-05-06 01:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 01:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 01:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 02:10:00 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, LABUSDT, FHEUSDT, 1000LUNCUSDT, MUSDT, TONUSDT, HIVEUSDT, GWEIUSDT, PENGUUSDT, USTCUSDT, CHRUSDT, NOTUSDT, RAVEUSDT, MORPHOUSDT, CFGUSDT
+[2026-05-06 02:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 02:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 02:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 03:10:00 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, LABUSDT, FHEUSDT, TONUSDT, MUSDT, HIVEUSDT, 1000LUNCUSDT, GWEIUSDT, NOTUSDT, CFGUSDT, PENGUUSDT, RAVEUSDT, EVAAUSDT, MORPHOUSDT, CLANKERUSDT
+[2026-05-06 03:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 03:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 03:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dogsusdt@kline_1m, labusdt@kline_1m, fheusdt@kline_1m, tonusdt@kline_1m, musdt@kline_1m..., raw=True)
+[2026-05-06 03:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=morphousdt@kline_1m)
+[2026-05-06 03:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 03:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 03:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 04:10:00 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, FHEUSDT, LABUSDT, TONUSDT, HIVEUSDT, MUSDT, NOTUSDT, GWEIUSDT, CFGUSDT, CLANKERUSDT, PENGUUSDT, CHRUSDT, EVAAUSDT, 1000LUNCUSDT, MORPHOUSDT
+[2026-05-06 04:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 04:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 04:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dogsusdt@kline_1m, fheusdt@kline_1m, labusdt@kline_1m, tonusdt@kline_1m, hiveusdt@kline_1m..., raw=True)
+[2026-05-06 04:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=morphousdt@kline_1m)
+[2026-05-06 04:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 04:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 04:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 05:10:00 | INFO | Kairos] 상위 15개 종목: FHEUSDT, DOGSUSDT, LABUSDT, TONUSDT, STXUSDT, HIVEUSDT, MUSDT, GWEIUSDT, NOTUSDT, CHRUSDT, CLANKERUSDT, CFGUSDT, ICPUSDT, PENGUUSDT, EVAAUSDT
+[2026-05-06 05:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 05:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 05:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=fheusdt@kline_1m, dogsusdt@kline_1m, labusdt@kline_1m, tonusdt@kline_1m, stxusdt@kline_1m..., raw=True)
+[2026-05-06 05:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=evaausdt@kline_1m)
+[2026-05-06 05:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 05:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 05:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 06:10:00 | INFO | Kairos] 상위 15개 종목: FHEUSDT, LABUSDT, DOGSUSDT, TONUSDT, MUSDT, HIVEUSDT, ZECUSDT, NOTUSDT, GWEIUSDT, MAVIAUSDT, ICPUSDT, FARTCOINUSDT, PENGUUSDT, CLANKERUSDT, GALAUSDT
+[2026-05-06 06:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 06:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 06:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=fheusdt@kline_1m, labusdt@kline_1m, dogsusdt@kline_1m, tonusdt@kline_1m, musdt@kline_1m..., raw=True)
+[2026-05-06 06:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=fheusdt@kline_1m)
+[2026-05-06 06:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 06:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 06:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 07:10:00 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, LABUSDT, FHEUSDT, MUSDT, TONUSDT, HIVEUSDT, GWEIUSDT, ZECUSDT, BUSDT, NOTUSDT, CLANKERUSDT, AINUSDT, MAVIAUSDT, ICPUSDT, FARTCOINUSDT
+[2026-05-06 07:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 07:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 07:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dogsusdt@kline_1m, labusdt@kline_1m, fheusdt@kline_1m, musdt@kline_1m, tonusdt@kline_1m..., raw=True)
+[2026-05-06 07:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=zecusdt@kline_1m)
+[2026-05-06 07:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 07:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 07:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 08:10:00 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, LABUSDT, FHEUSDT, MUSDT, HIVEUSDT, TONUSDT, BUSDT, ZECUSDT, GWEIUSDT, NOTUSDT, CLANKERUSDT, STXUSDT, VVVUSDT, ICPUSDT, FARTCOINUSDT
+[2026-05-06 08:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 08:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 08:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dogsusdt@kline_1m, labusdt@kline_1m, fheusdt@kline_1m, musdt@kline_1m, hiveusdt@kline_1m..., raw=True)
+[2026-05-06 08:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=zecusdt@kline_1m)
+[2026-05-06 08:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 08:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 08:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 09:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, DOGSUSDT, FHEUSDT, MUSDT, HIVEUSDT, ZECUSDT, BUSDT, TONUSDT, GWEIUSDT, CLANKERUSDT, 1000LUNCUSDT, NOTUSDT, ICPUSDT, MAVIAUSDT, STXUSDT
+[2026-05-06 09:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 09:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 09:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, dogsusdt@kline_1m, fheusdt@kline_1m, musdt@kline_1m, hiveusdt@kline_1m..., raw=True)
+[2026-05-06 09:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=zecusdt@kline_1m)
+[2026-05-06 09:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 09:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 09:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 10:10:00 | INFO | Kairos] 상위 15개 종목: FHEUSDT, LABUSDT, DOGSUSDT, MUSDT, CLANKERUSDT, GWEIUSDT, HIVEUSDT, BUSDT, ZECUSDT, MAVIAUSDT, TONUSDT, 1000LUNCUSDT, NOTUSDT, NAORISUSDT, ICPUSDT
+[2026-05-06 10:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 10:11:05 | WARNING | Kairos] 시장 웹소켓 재시작 전 대기열 폐기 (폐기 건수=1)
+[2026-05-06 10:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 10:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=fheusdt@kline_1m, labusdt@kline_1m, dogsusdt@kline_1m, musdt@kline_1m, clankerusdt@kline_1m..., raw=True)
+[2026-05-06 10:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=tonusdt@kline_1m)
+[2026-05-06 10:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:40:43 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_tp)
+[2026-05-06 10:40:43 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_sl)
+[2026-05-06 10:40:43 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_timeout)
+[2026-05-06 10:40:43 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_tp.pkl
+[2026-05-06 10:40:43 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_sl.pkl
+[2026-05-06 10:40:43 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp35_sl20_h60_timeout.pkl
+[2026-05-06 10:40:43 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:40:43 | INFO | Kairos] DB 연결 성공
+[2026-05-06 10:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 10:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 10:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:07:47 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:07:47 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:07:48 | INFO | Kairos] DB 연결 종료
+[2026-05-06 11:07:51 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:07:51 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:07:51 | INFO | Kairos] DB 연결 종료
+[2026-05-06 11:07:53 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:07:53 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:07:53 | INFO | Kairos] DB 연결 종료
+[2026-05-06 11:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 11:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, FHEUSDT, CLANKERUSDT, DOGSUSDT, MUSDT, SKYAIUSDT, GWEIUSDT, ZECUSDT, BUSDT, MAVIAUSDT, NOTUSDT, ARUSDT, ICPUSDT, BTRUSDT, 1000LUNCUSDT
+[2026-05-06 11:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 11:11:05 | WARNING | Kairos] 시장 웹소켓 재시작 전 대기열 폐기 (폐기 건수=1)
+[2026-05-06 11:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 11:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, fheusdt@kline_1m, clankerusdt@kline_1m, dogsusdt@kline_1m, musdt@kline_1m..., raw=True)
+[2026-05-06 11:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=labusdt@kline_1m)
+[2026-05-06 11:15:03 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:15:03 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:34:07 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:34:07 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:46:38 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:46:38 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:46:39 | INFO | Kairos] DB 연결 종료
+[2026-05-06 11:47:01 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:47:01 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:47:01 | INFO | Kairos] DB 연결 종료
+[2026-05-06 11:47:23 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:47:23 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:47:23 | INFO | Kairos] DB 연결 종료
+[2026-05-06 11:47:24 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:47:24 | INFO | Kairos] DB 연결 성공
+[2026-05-06 11:47:24 | INFO | Kairos] DB 연결 종료
+[2026-05-06 11:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 11:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 11:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 12:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, FHEUSDT, MUSDT, NOTUSDT, CLANKERUSDT, SKYAIUSDT, ZECUSDT, GWEIUSDT, ARUSDT, STORJUSDT, BUSDT, MAVIAUSDT, TONUSDT, VVVUSDT, 2ZUSDT
+[2026-05-06 12:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 12:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 12:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, fheusdt@kline_1m, musdt@kline_1m, notusdt@kline_1m, clankerusdt@kline_1m..., raw=True)
+[2026-05-06 12:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=labusdt@kline_1m)
+[2026-05-06 12:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:16:51 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:18:08 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:21:46 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_tp)
+[2026-05-06 12:21:46 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_tp | Samples=1272015
+[2026-05-06 12:21:46 | INFO | Kairos] 검증 세트 포함: Val Samples=141335
+[2026-05-06 12:22:18 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_tp.pkl
+[2026-05-06 12:22:19 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_sl)
+[2026-05-06 12:22:19 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_sl | Samples=1272015
+[2026-05-06 12:22:19 | INFO | Kairos] 검증 세트 포함: Val Samples=141335
+[2026-05-06 12:22:56 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_sl.pkl
+[2026-05-06 12:22:57 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_timeout)
+[2026-05-06 12:22:57 | INFO | Kairos] 모델 학습 시작: scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_timeout | Samples=1272015
+[2026-05-06 12:22:57 | INFO | Kairos] 검증 세트 포함: Val Samples=141335
+[2026-05-06 12:23:56 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_timeout.pkl
+[2026-05-06 12:24:05 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h60_tp)
+[2026-05-06 12:24:05 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h60_sl)
+[2026-05-06 12:24:05 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h60_timeout)
+[2026-05-06 12:24:05 | WARNING | Kairos] 로드할 모델 파일이 없습니다: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h60_tp.pkl
+[2026-05-06 12:24:05 | WARNING | Kairos] 로드할 모델 파일이 없습니다: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h60_sl.pkl
+[2026-05-06 12:24:05 | WARNING | Kairos] 로드할 모델 파일이 없습니다: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h60_timeout.pkl
+[2026-05-06 12:24:29 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_tp)
+[2026-05-06 12:24:29 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_sl)
+[2026-05-06 12:24:29 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_timeout)
+[2026-05-06 12:24:29 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_tp.pkl
+[2026-05-06 12:24:29 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_sl.pkl
+[2026-05-06 12:24:29 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_timeout.pkl
+[2026-05-06 12:24:29 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:24:29 | INFO | Kairos] DB 연결 성공
+[2026-05-06 12:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:26:49 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:27:01 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:27:49 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:27:49 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:29:27 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_tp)
+[2026-05-06 12:29:27 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_sl)
+[2026-05-06 12:29:27 | INFO | Kairos] LGBMModel 초기화 (scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_timeout)
+[2026-05-06 12:29:27 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_tp.pkl
+[2026-05-06 12:29:27 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_sl.pkl
+[2026-05-06 12:29:27 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\scalping_1m_lgbm_v8_wedge_support_breakout_tp50_sl30_h60_timeout.pkl
+[2026-05-06 12:29:27 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:29:27 | INFO | Kairos] DB 연결 성공
+[2026-05-06 12:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:47:48 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:47:48 | INFO | Kairos] DB 연결 성공
+[2026-05-06 12:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 12:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 12:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:00:21 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-06 13:00:21 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_tp | Samples=410521
+[2026-05-06 13:00:21 | INFO | Kairos] 검증 세트 포함: Val Samples=45614
+[2026-05-06 13:00:33 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-06 13:00:33 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-06 13:00:33 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_sl | Samples=410521
+[2026-05-06 13:00:33 | INFO | Kairos] 검증 세트 포함: Val Samples=45614
+[2026-05-06 13:00:47 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-06 13:00:47 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-06 13:00:47 | INFO | Kairos] 모델 학습 시작: v1_tp50_sl30_h120_timeout | Samples=410521
+[2026-05-06 13:00:47 | INFO | Kairos] 검증 세트 포함: Val Samples=45614
+[2026-05-06 13:01:02 | INFO | Kairos] 모델 저장 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-06 13:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 13:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, STORJUSDT, FHEUSDT, SKYAIUSDT, BUSDT, MUSDT, CLANKERUSDT, ZECUSDT, TONUSDT, ARUSDT, FILUSDT, NOTUSDT, GWEIUSDT, 1000LUNCUSDT, GALAUSDT
+[2026-05-06 13:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 13:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 13:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, storjusdt@kline_1m, fheusdt@kline_1m, skyaiusdt@kline_1m, busdt@kline_1m..., raw=True)
+[2026-05-06 13:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=busdt@kline_1m)
+[2026-05-06 13:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:45:13 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:45:13 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 13:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 13:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:10:04 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 14:10:04 | INFO | Kairos] 상위 15개 종목: LABUSDT, SKYAIUSDT, STORJUSDT, BUSDT, FHEUSDT, TONUSDT, MUSDT, ZECUSDT, WIFUSDT, CLANKERUSDT, GWEIUSDT, ARUSDT, FILUSDT, NOTUSDT, ICPUSDT
+[2026-05-06 14:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 14:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 14:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, skyaiusdt@kline_1m, storjusdt@kline_1m, busdt@kline_1m, fheusdt@kline_1m..., raw=True)
+[2026-05-06 14:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=wifusdt@kline_1m)
+[2026-05-06 14:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 14:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 14:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 15:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, SKYAIUSDT, STORJUSDT, FHEUSDT, ZECUSDT, WIFUSDT, TONUSDT, GWEIUSDT, BUSDT, CLANKERUSDT, ARUSDT, FILUSDT, VVVUSDT, NOTUSDT, GALAUSDT
+[2026-05-06 15:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 15:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 15:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, skyaiusdt@kline_1m, storjusdt@kline_1m, fheusdt@kline_1m, zecusdt@kline_1m..., raw=True)
+[2026-05-06 15:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=tonusdt@kline_1m)
+[2026-05-06 15:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 15:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 15:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 16:10:00 | INFO | Kairos] 상위 15개 종목: IOUSDT, LABUSDT, SKYAIUSDT, ZECUSDT, FHEUSDT, STORJUSDT, GWEIUSDT, BUSDT, TONUSDT, WIFUSDT, VVVUSDT, DASHUSDT, CLANKERUSDT, ARUSDT, FILUSDT
+[2026-05-06 16:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 16:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 16:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=iousdt@kline_1m, labusdt@kline_1m, skyaiusdt@kline_1m, zecusdt@kline_1m, fheusdt@kline_1m..., raw=True)
+[2026-05-06 16:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=zecusdt@kline_1m)
+[2026-05-06 16:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:36:45 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-06 16:36:45 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-06 16:36:45 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-06 16:36:45 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-06 16:36:45 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-06 16:36:45 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-06 16:36:45 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:36:45 | INFO | Kairos] DB 연결 성공
+[2026-05-06 16:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 16:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 16:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 17:10:00 | INFO | Kairos] 상위 15개 종목: IOUSDT, SKYAIUSDT, ZECUSDT, FHEUSDT, LABUSDT, STORJUSDT, GWEIUSDT, DASHUSDT, CLANKERUSDT, VVVUSDT, WIFUSDT, TONUSDT, BUSDT, ZENUSDT, ICPUSDT
+[2026-05-06 17:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 17:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 17:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=iousdt@kline_1m, skyaiusdt@kline_1m, zecusdt@kline_1m, fheusdt@kline_1m, labusdt@kline_1m..., raw=True)
+[2026-05-06 17:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=zecusdt@kline_1m)
+[2026-05-06 17:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:32:25 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:32:25 | INFO | Kairos] DB 연결 성공
+[2026-05-06 17:33:13 | INFO | Kairos] 시장 웹소켓 스트림 종료
+[2026-05-06 17:33:13 | INFO | Kairos] DB 연결 종료
+[2026-05-06 17:33:25 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:33:25 | INFO | Kairos] DB 연결 성공
+[2026-05-06 17:34:20 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:34:20 | INFO | Kairos] DB 연결 성공
+[2026-05-06 17:34:20 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:34:21 | INFO | Kairos] Binance 서버 시간 오프셋 동기화 완료 (465ms)
+[2026-05-06 17:34:21 | INFO | Kairos] Binance REST Client 초기화 완료
+[2026-05-06 17:34:21 | INFO | Kairos] DB 연결 종료
+[2026-05-06 17:36:26 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:36:26 | INFO | Kairos] DB 연결 성공
+[2026-05-06 17:36:26 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:36:27 | INFO | Kairos] Binance 서버 시간 오프셋 동기화 완료 (469ms)
+[2026-05-06 17:36:27 | INFO | Kairos] Binance REST Client 초기화 완료
+[2026-05-06 17:39:37 | INFO | Kairos] DB 연결 종료
+[2026-05-06 17:42:13 | INFO | Kairos] 바이낸스 내부 웹소켓 큐 크기 패치 적용 완료 (10,000)
+[2026-05-06 17:42:14 | INFO | Kairos] Binance 서버 시간 오프셋 동기화 완료 (482ms)
+[2026-05-06 17:42:14 | INFO | Kairos] Binance REST Client 초기화 완료
+[2026-05-06 17:42:14 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:42:14 | INFO | Kairos] DB 연결 성공
+[2026-05-06 17:42:14 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 17:42:14 | INFO | Kairos] 상위 15개 종목: IOUSDT, ZECUSDT, SKYAIUSDT, LABUSDT, FHEUSDT, STORJUSDT, GWEIUSDT, DASHUSDT, CLANKERUSDT, TONUSDT, WIFUSDT, ZENUSDT, VVVUSDT, ICPUSDT, ARUSDT
+[2026-05-06 17:42:14 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 17:42:14 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=iousdt@kline_1m, zecusdt@kline_1m, skyaiusdt@kline_1m, labusdt@kline_1m, fheusdt@kline_1m..., raw=True)
+[2026-05-06 17:42:14 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:42:14 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:42:14 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:42:14 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:42:15 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=labusdt@kline_1m)
+[2026-05-06 17:42:32 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_tp)
+[2026-05-06 17:42:32 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_sl)
+[2026-05-06 17:42:32 | INFO | Kairos] LGBMModel 초기화 (v1_tp50_sl30_h120_timeout)
+[2026-05-06 17:42:32 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_tp.pkl
+[2026-05-06 17:42:32 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_sl.pkl
+[2026-05-06 17:42:32 | INFO | Kairos] 모델 로드 완료: C:\dev\kairos_1m\common\models\v1_tp50_sl30_h120_timeout.pkl
+[2026-05-06 17:42:32 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:42:32 | INFO | Kairos] DB 연결 성공
+[2026-05-06 17:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 17:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 17:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 18:10:00 | INFO | Kairos] 상위 15개 종목: IOUSDT, ZECUSDT, SKYAIUSDT, FHEUSDT, LABUSDT, STORJUSDT, GWEIUSDT, TONUSDT, DASHUSDT, CLANKERUSDT, ARUSDT, WIFUSDT, ICPUSDT, VVVUSDT, FILUSDT
+[2026-05-06 18:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 18:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 18:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=iousdt@kline_1m, zecusdt@kline_1m, skyaiusdt@kline_1m, fheusdt@kline_1m, labusdt@kline_1m..., raw=True)
+[2026-05-06 18:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=iousdt@kline_1m)
+[2026-05-06 18:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 18:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 18:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 19:10:00 | INFO | Kairos] 상위 15개 종목: IOUSDT, SKYAIUSDT, ZECUSDT, STORJUSDT, LABUSDT, FHEUSDT, GWEIUSDT, ARUSDT, TONUSDT, CLANKERUSDT, DASHUSDT, VVVUSDT, UAIUSDT, ICPUSDT, FILUSDT
+[2026-05-06 19:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 19:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 19:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=iousdt@kline_1m, skyaiusdt@kline_1m, zecusdt@kline_1m, storjusdt@kline_1m, labusdt@kline_1m..., raw=True)
+[2026-05-06 19:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=iousdt@kline_1m)
+[2026-05-06 19:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 19:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 19:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 20:10:00 | INFO | Kairos] 상위 15개 종목: SKYAIUSDT, LABUSDT, IOUSDT, FHEUSDT, ZECUSDT, STORJUSDT, TONUSDT, GWEIUSDT, VVVUSDT, DASHUSDT, CLANKERUSDT, ARUSDT, FILUSDT, UAIUSDT, FARTCOINUSDT
+[2026-05-06 20:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 20:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 20:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=skyaiusdt@kline_1m, labusdt@kline_1m, iousdt@kline_1m, fheusdt@kline_1m, zecusdt@kline_1m..., raw=True)
+[2026-05-06 20:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=filusdt@kline_1m)
+[2026-05-06 20:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 20:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 20:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 21:10:00 | INFO | Kairos] 상위 15개 종목: FHEUSDT, LABUSDT, IOUSDT, ZECUSDT, SKYAIUSDT, STORJUSDT, TONUSDT, UAIUSDT, VVVUSDT, DASHUSDT, CLANKERUSDT, BUSDT, ARUSDT, NEARUSDT, ZEREBROUSDT
+[2026-05-06 21:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 21:11:05 | WARNING | Kairos] 시장 웹소켓 재시작 전 대기열 폐기 (폐기 건수=2)
+[2026-05-06 21:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 21:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=fheusdt@kline_1m, labusdt@kline_1m, iousdt@kline_1m, zecusdt@kline_1m, skyaiusdt@kline_1m..., raw=True)
+[2026-05-06 21:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=uaiusdt@kline_1m)
+[2026-05-06 21:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 21:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 21:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 22:10:00 | INFO | Kairos] 상위 15개 종목: FHEUSDT, ZECUSDT, IOUSDT, TONUSDT, SKYAIUSDT, DASHUSDT, STORJUSDT, LABUSDT, UAIUSDT, CLANKERUSDT, ARUSDT, XNYUSDT, VVVUSDT, NEARUSDT, MAVIAUSDT
+[2026-05-06 22:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 22:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 22:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=fheusdt@kline_1m, zecusdt@kline_1m, iousdt@kline_1m, tonusdt@kline_1m, skyaiusdt@kline_1m..., raw=True)
+[2026-05-06 22:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=uaiusdt@kline_1m)
+[2026-05-06 22:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 22:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 22:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-06 23:10:00 | INFO | Kairos] 상위 15개 종목: FHEUSDT, ZECUSDT, IOUSDT, TONUSDT, SKYAIUSDT, STORJUSDT, LABUSDT, JTOUSDT, UAIUSDT, DASHUSDT, VVVUSDT, NAORISUSDT, ZEREBROUSDT, ARUSDT, NEARUSDT
+[2026-05-06 23:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-06 23:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-06 23:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=fheusdt@kline_1m, zecusdt@kline_1m, iousdt@kline_1m, tonusdt@kline_1m, skyaiusdt@kline_1m..., raw=True)
+[2026-05-06 23:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=zecusdt@kline_1m)
+[2026-05-06 23:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-06 23:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-06 23:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 00:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, IOUSDT, ZECUSDT, FHEUSDT, TONUSDT, JTOUSDT, DASHUSDT, ARUSDT, STORJUSDT, NAORISUSDT, RIFUSDT, ZEREBROUSDT, NEARUSDT, MAVIAUSDT, VVVUSDT
+[2026-05-07 00:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 00:11:05 | WARNING | Kairos] 시장 웹소켓 재시작 전 대기열 폐기 (폐기 건수=2)
+[2026-05-07 00:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 00:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, iousdt@kline_1m, zecusdt@kline_1m, fheusdt@kline_1m, tonusdt@kline_1m..., raw=True)
+[2026-05-07 00:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=nearusdt@kline_1m)
+[2026-05-07 00:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 00:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 00:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 01:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, ZECUSDT, IOUSDT, TONUSDT, FHEUSDT, DASHUSDT, JTOUSDT, ARUSDT, ICPUSDT, NEARUSDT, NAORISUSDT, XNYUSDT, ZEREBROUSDT, STORJUSDT, FARTCOINUSDT
+[2026-05-07 01:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 01:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 01:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, zecusdt@kline_1m, iousdt@kline_1m, tonusdt@kline_1m, fheusdt@kline_1m..., raw=True)
+[2026-05-07 01:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=fheusdt@kline_1m)
+[2026-05-07 01:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 01:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 01:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 02:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, TONUSDT, IOUSDT, ZECUSDT, ZEREBROUSDT, PLAYUSDT, JTOUSDT, FHEUSDT, NEARUSDT, DASHUSDT, ARUSDT, ICPUSDT, FLOCKUSDT, STORJUSDT, XNYUSDT
+[2026-05-07 02:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 02:11:05 | WARNING | Kairos] 시장 웹소켓 재시작 전 대기열 폐기 (폐기 건수=4)
+[2026-05-07 02:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 02:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, tonusdt@kline_1m, iousdt@kline_1m, zecusdt@kline_1m, zerebrousdt@kline_1m..., raw=True)
+[2026-05-07 02:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=playusdt@kline_1m)
+[2026-05-07 02:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 02:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 02:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 03:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, ZECUSDT, IOUSDT, TONUSDT, PLAYUSDT, ZEREBROUSDT, JTOUSDT, DASHUSDT, ARUSDT, NEARUSDT, RIFUSDT, INITUSDT, ICPUSDT, XNYUSDT, FHEUSDT
+[2026-05-07 03:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 03:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 03:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, zecusdt@kline_1m, iousdt@kline_1m, tonusdt@kline_1m, playusdt@kline_1m..., raw=True)
+[2026-05-07 03:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=playusdt@kline_1m)
+[2026-05-07 03:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 03:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 03:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 04:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, PLAYUSDT, IOUSDT, ZEREBROUSDT, ZECUSDT, TONUSDT, JTOUSDT, VVVUSDT, NEARUSDT, ARUSDT, DASHUSDT, XNYUSDT, FLOCKUSDT, RIFUSDT, GENIUSUSDT
+[2026-05-07 04:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 04:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 04:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, playusdt@kline_1m, iousdt@kline_1m, zerebrousdt@kline_1m, zecusdt@kline_1m..., raw=True)
+[2026-05-07 04:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=btcusdt@kline_1m)
+[2026-05-07 04:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:40:36 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:40:36 | INFO | Kairos] DB 연결 성공
+[2026-05-07 04:40:36 | INFO | Kairos] DB 연결 종료
+[2026-05-07 04:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 04:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 04:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 05:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, PLAYUSDT, ZEREBROUSDT, TONUSDT, IOUSDT, ZECUSDT, VVVUSDT, JTOUSDT, DASHUSDT, NEARUSDT, XNYUSDT, ARUSDT, WIFUSDT, FLOCKUSDT, GENIUSUSDT
+[2026-05-07 05:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 05:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 05:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, playusdt@kline_1m, zerebrousdt@kline_1m, tonusdt@kline_1m, iousdt@kline_1m..., raw=True)
+[2026-05-07 05:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=playusdt@kline_1m)
+[2026-05-07 05:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 05:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 05:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 06:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, PLAYUSDT, ZEREBROUSDT, IOUSDT, TONUSDT, VVVUSDT, JTOUSDT, NEARUSDT, CFGUSDT, XNYUSDT, GENIUSUSDT, DASHUSDT, UBUSDT, STGUSDT, ARUSDT
+[2026-05-07 06:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 06:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 06:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, playusdt@kline_1m, zerebrousdt@kline_1m, iousdt@kline_1m, tonusdt@kline_1m..., raw=True)
+[2026-05-07 06:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=playusdt@kline_1m)
+[2026-05-07 06:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 06:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 06:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 07:10:00 | INFO | Kairos] 상위 15개 종목: PLAYUSDT, LABUSDT, ZEREBROUSDT, IOUSDT, TONUSDT, VVVUSDT, CFGUSDT, GENIUSUSDT, NEARUSDT, ARUSDT, JTOUSDT, STGUSDT, ICPUSDT, SIRENUSDT, XNYUSDT
+[2026-05-07 07:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 07:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 07:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=playusdt@kline_1m, labusdt@kline_1m, zerebrousdt@kline_1m, iousdt@kline_1m, tonusdt@kline_1m..., raw=True)
+[2026-05-07 07:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=playusdt@kline_1m)
+[2026-05-07 07:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 07:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 07:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 08:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, ZEREBROUSDT, PLAYUSDT, IOUSDT, TONUSDT, CFGUSDT, VVVUSDT, ARUSDT, GENIUSUSDT, STGUSDT, ICPUSDT, NEARUSDT, USELESSUSDT, NAORISUSDT, XNYUSDT
+[2026-05-07 08:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 08:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 08:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, zerebrousdt@kline_1m, playusdt@kline_1m, iousdt@kline_1m, tonusdt@kline_1m..., raw=True)
+[2026-05-07 08:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=iousdt@kline_1m)
+[2026-05-07 08:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 08:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 08:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 09:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, ZEREBROUSDT, PLAYUSDT, TONUSDT, IOUSDT, VVVUSDT, STGUSDT, ICPUSDT, CFGUSDT, NEARUSDT, ARUSDT, USELESSUSDT, GENIUSUSDT, XNYUSDT, FILUSDT
+[2026-05-07 09:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 09:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 09:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, zerebrousdt@kline_1m, playusdt@kline_1m, tonusdt@kline_1m, iousdt@kline_1m..., raw=True)
+[2026-05-07 09:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=playusdt@kline_1m)
+[2026-05-07 09:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 09:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 09:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 10:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, ZEREBROUSDT, DOGSUSDT, VVVUSDT, PLAYUSDT, STGUSDT, IOUSDT, TONUSDT, CFGUSDT, GENIUSUSDT, NEARUSDT, ARUSDT, HMSTRUSDT, NAORISUSDT, ICPUSDT
+[2026-05-07 10:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 10:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 10:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, zerebrousdt@kline_1m, dogsusdt@kline_1m, vvvusdt@kline_1m, playusdt@kline_1m..., raw=True)
+[2026-05-07 10:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=nearusdt@kline_1m)
+[2026-05-07 10:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 10:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 10:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 11:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, DOGSUSDT, ZEREBROUSDT, FHEUSDT, EVAAUSDT, TONUSDT, VVVUSDT, IOUSDT, CFGUSDT, STGUSDT, GENIUSUSDT, XNYUSDT, NEARUSDT, TAGUSDT, NAORISUSDT
+[2026-05-07 11:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 11:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 11:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, dogsusdt@kline_1m, zerebrousdt@kline_1m, fheusdt@kline_1m, evaausdt@kline_1m..., raw=True)
+[2026-05-07 11:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=zerebrousdt@kline_1m)
+[2026-05-07 11:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:20:12 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:20:12 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:34:08 | WARNING | Kairos] 시장 웹소켓 전달 대기열 증가 감지 (대기=5000, 기준=5000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:34:41 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:17 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:17 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:17 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:17 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:18 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:19 | WARNING | Kairos] 시장 웹소켓 전달 큐 포화로 수신 루프가 대기합니다 (최대 크기=20000)
+[2026-05-07 11:35:21 | INFO | Kairos] 시장 웹소켓 전달 대기열 회복 (대기=640, 기준=5000)
+[2026-05-07 11:35:21 | WARNING | Kairos] 시장 웹소켓 전달 대기열 증가 감지 (대기=5000, 기준=5000)
+[2026-05-07 11:35:24 | INFO | Kairos] 시장 웹소켓 전달 대기열 회복 (대기=1, 기준=5000)
+[2026-05-07 11:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 11:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 11:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:10:03 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 12:10:03 | INFO | Kairos] 상위 15개 종목: LABUSDT, DOGSUSDT, FHEUSDT, TONUSDT, ZEREBROUSDT, IOUSDT, EVAAUSDT, VVVUSDT, XNYUSDT, CFGUSDT, GENIUSUSDT, NILUSDT, NEARUSDT, HMSTRUSDT, CATIUSDT
+[2026-05-07 12:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 12:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 12:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, dogsusdt@kline_1m, fheusdt@kline_1m, tonusdt@kline_1m, zerebrousdt@kline_1m..., raw=True)
+[2026-05-07 12:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=fheusdt@kline_1m)
+[2026-05-07 12:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 12:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 12:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 13:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, DOGSUSDT, FHEUSDT, ZEREBROUSDT, TONUSDT, EVAAUSDT, VVVUSDT, XNYUSDT, IOUSDT, NILUSDT, GENIUSUSDT, HMSTRUSDT, ACUUSDT, MUSDT, NEARUSDT
+[2026-05-07 13:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 13:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 13:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, dogsusdt@kline_1m, fheusdt@kline_1m, zerebrousdt@kline_1m, tonusdt@kline_1m..., raw=True)
+[2026-05-07 13:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=hmstrusdt@kline_1m)
+[2026-05-07 13:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 13:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 13:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 14:10:00 | INFO | Kairos] 상위 15개 종목: LABUSDT, DOGSUSDT, FHEUSDT, TONUSDT, IOUSDT, XNYUSDT, NOTUSDT, HMSTRUSDT, NILUSDT, ZEREBROUSDT, VVVUSDT, EVAAUSDT, GENIUSUSDT, NEARUSDT, CFGUSDT
+[2026-05-07 14:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 14:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 14:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=labusdt@kline_1m, dogsusdt@kline_1m, fheusdt@kline_1m, tonusdt@kline_1m, iousdt@kline_1m..., raw=True)
+[2026-05-07 14:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=labusdt@kline_1m)
+[2026-05-07 14:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 14:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 14:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 15:10:00 | INFO | Kairos] 상위 15개 종목: DUSDT, LABUSDT, DOGSUSDT, EVAAUSDT, FHEUSDT, TONUSDT, NILUSDT, HMSTRUSDT, NOTUSDT, XNYUSDT, FLOCKUSDT, IOUSDT, GENIUSUSDT, ACUUSDT, VVVUSDT
+[2026-05-07 15:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 15:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 15:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dusdt@kline_1m, labusdt@kline_1m, dogsusdt@kline_1m, evaausdt@kline_1m, fheusdt@kline_1m..., raw=True)
+[2026-05-07 15:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=fheusdt@kline_1m)
+[2026-05-07 15:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 15:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 15:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 16:10:00 | INFO | Kairos] 상위 15개 종목: DUSDT, DOGSUSDT, LABUSDT, EVAAUSDT, FHEUSDT, TONUSDT, NOTUSDT, NILUSDT, HMSTRUSDT, GENIUSUSDT, ACUUSDT, CFGUSDT, VIRTUALUSDT, USELESSUSDT, NEARUSDT
+[2026-05-07 16:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 16:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 16:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dusdt@kline_1m, dogsusdt@kline_1m, labusdt@kline_1m, evaausdt@kline_1m, fheusdt@kline_1m..., raw=True)
+[2026-05-07 16:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=fheusdt@kline_1m)
+[2026-05-07 16:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 16:55:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 16:55:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:00:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:00:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:04:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:04:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:05:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:05:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:10:00 | INFO | Kairos] 선물 USDT 종목 중 수익률 상위 15개 추출 완료 (최소 거래대금: $1.0M)
+[2026-05-07 17:10:00 | INFO | Kairos] 상위 15개 종목: DOGSUSDT, DUSDT, LABUSDT, EVAAUSDT, FHEUSDT, TONUSDT, SIRENUSDT, FLOCKUSDT, NOTUSDT, NILUSDT, CFGUSDT, HMSTRUSDT, VVVUSDT, GENIUSUSDT, XNYUSDT
+[2026-05-07 17:10:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:10:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:11:05 | WARNING | Kairos] 시장 웹소켓 강제 재시작 요청: 심볼 갱신 반영
+[2026-05-07 17:11:05 | WARNING | Kairos] 시장 웹소켓 재시작 전 대기열 폐기 (폐기 건수=5)
+[2026-05-07 17:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 연결 시작 (symbols=16개, intervals=1개, streams=16개, chunks=1개, raw=True)
+[2026-05-07 17:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 chunk 연결 시작 (1/1, streams=16, sample=dogsusdt@kline_1m, dusdt@kline_1m, labusdt@kline_1m, evaausdt@kline_1m, fheusdt@kline_1m..., raw=True)
+[2026-05-07 17:11:05 | INFO | Kairos] 바이낸스 선물 시장 웹소켓 첫 메시지 수신 (raw=True, 1/1, stream=labusdt@kline_1m)
+[2026-05-07 17:15:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:15:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:19:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:19:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:20:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:20:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:25:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:25:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:30:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:30:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:34:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:34:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:35:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:35:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:40:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:40:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:45:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:45:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:49:00 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:49:00 | INFO | Kairos] 시장 데이터 테이블 초기화 완료
+[2026-05-07 17:50:10 | INFO | Kairos] DBManager 초기화 (127.0.0.1:5433/kairos)
+[2026-05-07 17:50:10 | INFO | Kairos] 시장 데이터 테이블 초기화 완료

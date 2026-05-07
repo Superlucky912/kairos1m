@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: kairos
+Version: 0.1.0
+Summary: Kairos AI Trading Bot System
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: ccxt
+Requires-Dist: pandas
+Requires-Dist: pandas-ta
+Requires-Dist: numpy
+Requires-Dist: psycopg2-binary
+Requires-Dist: python-dotenv
+Requires-Dist: lightgbm
+Requires-Dist: scikit-learn
+Requires-Dist: optuna
+Requires-Dist: pyzmq
+Requires-Dist: python-binance
+Provides-Extra: dev
+Requires-Dist: pyright==1.1.408; extra == "dev"
+Provides-Extra: web
+Requires-Dist: fastapi; extra == "web"
+Requires-Dist: uvicorn; extra == "web"
+Requires-Dist: pydantic; extra == "web"
