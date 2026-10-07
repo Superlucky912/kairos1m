@@ -2,3 +2,7 @@
 .env
 .env.*
 !.env.example
+
+# Python 바이트코드 캐시는 버전 관리에서 제외합니다.
+__pycache__/
+*.pyc
